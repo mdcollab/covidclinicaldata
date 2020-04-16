@@ -4,9 +4,14 @@ This is an effort to compile a repository of the clinical characteristics of COV
 
 ## Data
 
-The repository is maintained in <a href="https://docs.google.com/spreadsheets/d/11IuOqJ_L0wYcbDqovmDaASR2aae79I5a9wpGVOuQ9bU/edit?usp=sharing" target="_blank">Google Sheets</a> and as a [CSV](data/carbonhealth_and_braidhealth/ALL/4.6_carbonhealth_and_braidhealth.csv). Each row represents a COVID-19 tested patient. More details are available in the [data dictionary](https://docs.google.com/spreadsheets/d/1p9rtv2LjVCPb54MdGe8ZqJ1zF3McIFnzq-ZhhjWgguI/edit?usp=sharing).
+The repository is maintained as [CSVs](https://github.com/mdcollab/covidclinicaldata/tree/master/data/carbonhealth_and_braidhealth) and in <a href="https://docs.google.com/spreadsheets/d/11IuOqJ_L0wYcbDqovmDaASR2aae79I5a9wpGVOuQ9bU/edit?usp=sharing" target="_blank">Google Sheets</a> and is compliant with [HIPAA Privacy Rule's De-Identification Standard](https://www.hhs.gov/hipaa/for-professionals/privacy/special-topics/de-identification/index.html#standard). Here are some important details about the refresh cadence and organization of the repository:
 
-New data from our contributors and Carbon Health will be compiled and published, weekly on Tuesdays (containing data for the previous week). The list of contributors and supporters is maintained in the section below. 
+  * Each row contains the clinical characteristics of a patient who has taken the COVID-19 test.  
+  * Data from our contributors, Carbon Health, and Braid Health is compiled and published weekly.
+  * Each batch is published as a separate CSV file (and Google Sheets tab).  
+  * Each filename is prefixed with the date (mm-dd) the query was run, which matches the `date_published` field. 
+  * Each batch contains a week's worth of test results, the last date being `date_published - 1`. The first batch, prefixed with 04-07, contains data since 03-07.
+  * Additional details about each field are available in the [data dictionary](https://docs.google.com/spreadsheets/d/1p9rtv2LjVCPb54MdGe8ZqJ1zF3McIFnzq-ZhhjWgguI/edit?usp=sharing). 
 
 ## <a name="contribs"></a> Contributors and Supporters
 
@@ -18,12 +23,11 @@ New data from our contributors and Carbon Health will be compiled and published,
 - Twitter: <a href="https://twitter.com/CarbonHealth" target="_blank">@CarbonHealth</a>
 - Email: <covidclinicaldata@carbonhealth.com>
 - Notes: 
-    1. Each row includes the characteristics of a patient who has taken the COVID-19 test. Carbon Health began COVID-19 testing with the SARS-CoV-2 RNA RT-PCR test on 3.7.20. 
-    2. The data includes **clinical characteristics** in addition to **radiological** and **laboratory** findings. It does not include **treatment plans**, **complications**, and **clinical outcomes**; this data would come from in-patient facilities.
-    3. The data includes both positive- and negative-tested patient characteristics. As of 4.6.20, these include the characteristics of symptomatic patients, those in professions with a high risk of exposure, and/or those who may have been exposed through contact with a known infected person. 
-    4. Clinician-assessed symptoms are sparse for data published on 4.6.20 due to some criteria having been added later. 
-    5. A patient's reported age differs from their actual age by a reasonable randomized amount to protect their privacy. We remain compliant with [HIPAA Privacy Rule's De-Identification Standard](https://www.hhs.gov/hipaa/for-professionals/privacy/special-topics/de-identification/index.html#standard).
-
+    * Carbon Health began COVID-19 testing with the SARS-CoV-2 RNA RT-PCR test on 03-04-20. 
+    * The data includes **clinical characteristics** in addition to **radiological** and **laboratory** findings. It does not include **treatment plans**, **complications**, and **clinical outcomes**, which is collected at in-patient facilities.
+    * The data includes both positive- and negative-tested patient characteristics. These include the characteristics of symptomatic patients, those in professions with a high risk of exposure, and/or those who may have been exposed through contact with a known infected person. 
+    * Clinician-assessed symptoms are sparse for data published on 04-07 due to some criteria having been added later. 
+    * A patient's reported age differs from their actual age by a reasonable randomized amount to protect their privacy. 
     
 | ![CH Logo](contributors/logos/carbon_health.png) | <img src="contributors/samples/carbon_health_dictionary.png" width="60%"> |
 |:--:| :--: |
@@ -35,9 +39,9 @@ New data from our contributors and Carbon Health will be compiled and published,
 - Twitter: <a href="https://twitter.com/BraidHealth" target="_blank">@BraidHealth</a>
 - Email: <vivian@braid.health> and <k@braid.health>
 - Notes:
-    1. Findings, clinician impressions, and links to chest x-rays are included. 
-    2. The links direct to the Braid Health website. This allows for closer inspection by researchers and radiologists. 
-    3. The images can be downloaded for image processing and classification studies.
+    * The data is merged with Carbon Health clinical characteristics and includes findings, clinician impressions, and links to chest x-rays. 
+    * The links direct to the Braid Health website. The website UI allows for closer inspection by researchers and radiologists. 
+    * The images can be downloaded for image processing and classification studies.
 
 | <img src="contributors/logos/braid_health.png" width="60%"> |  <img src="contributors/samples/braid_health_c_xray.png" width="60%"> |
 |:--:| :--:| 
@@ -49,32 +53,23 @@ Special thanks to <a href="https://braid.health/www" target="_blank">Kevin Quenn
 
 ## Call for Data 
 
-To ensure this data is representative of cases with varying severity levels and symptoms, we are requesting data from out-patient test centers and in-patient healthcare facilities which are treating COVID-19. 
-Please use either one of the templates provided below and email the data to <covidclinicaldata@carbonhealth.com>. Further, please share any studies on this data via email or a <a href="https://github.com/mdcollab/covidclinicaldata" target="_blank">pull request</a>. 
-
-### Templates for Out-patient Test Centers
-
-Here are the available templates for out-patient test centers and clinics:
-
-- <a href="https://docs.google.com/spreadsheets/d/18dGt8lZQsaAL0X4OPDICWVU2LtTBhRQufR2eBcLVgPA/edit?usp=sharing" target="_blank">Google Sheets</a>
-- <a href="templates/outpatient/4.6_outpatient_template.xlsx" target="_blank">Excel</a>
-- [CSV](templates/outpatient/4.6_outpatient_template.csv)
+To ensure this data is representative of cases with varying severity levels and symptoms, we are requesting data from **out-patient test centers** and **in-patient healthcare facilities** which are treating COVID-19. 
+Please use the templates below and email the data to <covidclinicaldata@carbonhealth.com>. 
 
 Details about the fields are available in the [data dictionary](https://docs.google.com/spreadsheets/d/1p9rtv2LjVCPb54MdGe8ZqJ1zF3McIFnzq-ZhhjWgguI/edit?usp=sharing).
 
-### Templates for In-patient Healthcare Facilities
+### Out-patient Test Centers
 
-In-patient healthcare providers can contribute additional columns for **treatment plans**, **complications**, and **clinical outcomes** using one of the following templates:
+Out-patient test centers and clinics can contribute their data using the <a href="https://docs.google.com/spreadsheets/d/18dGt8lZQsaAL0X4OPDICWVU2LtTBhRQufR2eBcLVgPA/edit?usp=sharing" target="_blank">out-patient template</a>.
 
-- <a href="https://docs.google.com/spreadsheets/d/18dGt8lZQsaAL0X4OPDICWVU2LtTBhRQufR2eBcLVgPA/edit?usp=sharing" target="_blank">Google Sheets</a>
-- <a href="templates/inpatient/4.6_inpatient_template.xlsx" target="_blank">Excel</a>
-- [CSV](templates/inpatient/4.6_inpatient_template.csv)
+### In-patient Healthcare Facilities
 
-Details about the fields are available in the [data dictionary](https://docs.google.com/spreadsheets/d/1p9rtv2LjVCPb54MdGe8ZqJ1zF3McIFnzq-ZhhjWgguI/edit?usp=sharing).
+In-patient healthcare providers can contribute additional columns for **treatment plans**, **complications**, and **clinical outcomes** using the <a href="https://docs.google.com/spreadsheets/d/18dGt8lZQsaAL0X4OPDICWVU2LtTBhRQufR2eBcLVgPA/edit?usp=sharing" target="_blank">in-patient template</a>.
 
 ## Citation
 
-Use the format below to cite the data repository in your studies, remembering to update your date of access.
+Please share any studies on this data via email or a <a href="https://github.com/mdcollab/covidclinicaldata" target="_blank">pull request</a>. 
+You can use the format below to cite the data repository in your studies, remembering to update your date of access.
 
 ```
 @dataset{2020covidclinicaldata,
@@ -82,7 +77,7 @@ Use the format below to cite the data repository in your studies, remembering to
   title =        {Coronavirus Disease 2019 (COVID-19) Clinical Data Repository},
   howpublished = {Accessed on yyyy-mm-dd from \url{https://covidclinicaldata.com/}},
   year =         2020,
-  version =      {1.0}
+  version =      {2.0}
 }
 ```
 
