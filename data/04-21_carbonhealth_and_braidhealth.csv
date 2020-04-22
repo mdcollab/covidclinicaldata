@@ -1,0 +1,521 @@
+﻿date_published,clinic_state,test_name,swab_type,covid19_test_results,age,high_risk_exposure_occupation,high_risk_interactions,diabetes,chd,htn,cancer,asthma,copd,autoimmune_dis,temperature,pulse,sys,dia,rr,sats,rapid_flu_results,rapid_strep_results,days_since_symptom_onset,ctab,labored_respiration,rhonchi,wheezes,cough,cough_severity,fever,sob,sob_severity,diarrhea,fatigue,headache,loss_of_smell,loss_of_taste,runny_nose,muscle_sore,sore_throat,cxr_findings,cxr_impression,cxr_link,er_referral
+2020-04-21,CA,Rapid COVID-19 Test,Nasal,Negative,30,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,37.25,88,133,85,16,96,,,,TRUE,FALSE,FALSE,FALSE,FALSE,,FALSE,FALSE,,,TRUE,,,,,,TRUE,"The cardiac silhouette is normal.
+There is no radiographic evidence of pulmonary edema.
+There is no radiographic evidence of pneumonia.
+There is no pneumothorax visible.
+",No significant abnormality.,https://braid.health/viewer/study/02a3d5ee7724914bc89d2b88b6c7ae2e6b21a1e8133239236b7659f76db5b9ec?key=BIo8HvL8W_dy__4IdBFd1pxP3xoibTLfRwG4ErLo9Okog3RzXmcB0VJL-7onLz9PlL4OpSzut_hzZZGPnC6LX0,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasopharyngeal,Negative,51,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,37.40,97,120,77,17,98,,,120,TRUE,FALSE,FALSE,FALSE,TRUE,Mild,FALSE,FALSE,,,,,,,,,,,,,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasal,Negative,30,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,36.35,70,136,85,16,98,,,,,FALSE,,,FALSE,,,FALSE,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,,,,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasopharyngeal,Negative,72,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,36.65,,,,,,,,,,FALSE,,,,,,,,,,,,,,,,,,,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasal,Positive,39,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,38.00,101,112,78,16,99,,,7,TRUE,FALSE,FALSE,FALSE,TRUE,Mild,,TRUE,Mild,,TRUE,TRUE,,,,TRUE,,,,,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasopharyngeal,Negative,58,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,36.65,,,,,,,,,,FALSE,,,,,,,,,,,,,,,,,,,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasal,Negative,66,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,36.50,77,109,64,16,99,,,,TRUE,FALSE,FALSE,FALSE,FALSE,,,FALSE,,TRUE,,,,,,,,,,,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasal,Negative,50,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,37.10,,150,90,14,96,,,,TRUE,,,FALSE,FALSE,,,FALSE,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,,,,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasopharyngeal,Negative,63,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,36.50,,,,,,,,,,FALSE,,,,,,,,,,,,,,,,,,,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasopharyngeal,Negative,21,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,36.65,,,,,,,,,,FALSE,,,,,,,,,,,,,,,,,,,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasopharyngeal,Negative,48,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,36.65,,,,,,,,,,FALSE,,,FALSE,,FALSE,FALSE,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,,,,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasal,Negative,76,,,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,36.65,76,170,88,,98,,,,TRUE,FALSE,,FALSE,FALSE,,,FALSE,,,,,,,,,,,,,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasal,Negative,42,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,36.95,80,130,80,12,98,,,,TRUE,FALSE,FALSE,FALSE,FALSE,,,FALSE,,,,,,,,,,,,,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasopharyngeal,Negative,24,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,36.85,88,114,71,16,99,,,7,TRUE,FALSE,,,TRUE,Moderate,TRUE,FALSE,,TRUE,TRUE,,TRUE,,,TRUE,,,,,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasal,Negative,34,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,37.25,97,102,72,16,98,Negative,,1,TRUE,FALSE,,,FALSE,,TRUE,FALSE,,,TRUE,,,,,TRUE,,,,,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasal,Negative,43,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,38.15,99,108,75,13,100,,,2,TRUE,FALSE,FALSE,FALSE,FALSE,,,FALSE,,,,,,,,,TRUE,,,,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasal,Negative,47,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,36.90,68,120,66,18,98,,,,TRUE,,,FALSE,FALSE,,,FALSE,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,,,,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasal,Negative,61,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,37.15,82,115,75,16,97,,,,TRUE,FALSE,FALSE,FALSE,FALSE,,,FALSE,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,,,,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasal,Negative,22,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,36.70,68,116,80,,98,,,,,FALSE,,,FALSE,,FALSE,FALSE,,TRUE,TRUE,,,,,,TRUE,,,,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasal,Negative,27,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,37.15,87,128,88,14,100,,,3,TRUE,,,,TRUE,Moderate,FALSE,TRUE,Mild,,,,,,TRUE,,TRUE,,,,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasal,Negative,58,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,36.90,93,135,95,14,98,,,5,TRUE,FALSE,FALSE,FALSE,TRUE,Mild,,FALSE,,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE,FALSE,TRUE,,,,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasopharyngeal,Negative,69,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,37.15,82,141,72,17,99,,,4,TRUE,FALSE,,,TRUE,Moderate,TRUE,FALSE,,,TRUE,TRUE,,,,TRUE,,,,,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasopharyngeal,Negative,29,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,36.80,65,104,66,17,97,,,5,TRUE,FALSE,FALSE,FALSE,TRUE,Moderate,FALSE,FALSE,Moderate,FALSE,FALSE,FALSE,TRUE,TRUE,TRUE,TRUE,FALSE,,,,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasal,Negative,27,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,37.10,106,106,72,,95,,,1,TRUE,FALSE,FALSE,FALSE,FALSE,,TRUE,FALSE,,,TRUE,TRUE,,,,TRUE,,,,,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasal,Negative,38,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,37.20,81,124,79,16,99,,,1,TRUE,FALSE,FALSE,FALSE,FALSE,,TRUE,FALSE,,,TRUE,,,,,TRUE,TRUE,,,,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasal,Negative,41,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,37.00,75,127,85,,98,,,,FALSE,FALSE,,TRUE,FALSE,,FALSE,FALSE,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,,,,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasopharyngeal,Negative,28,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,37.25,98,122,81,17,95,,,4,TRUE,FALSE,FALSE,FALSE,FALSE,,TRUE,FALSE,,,TRUE,,,,,,TRUE,,,,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasal,Negative,70,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,37.15,73,135,71,13,94,,,,TRUE,FALSE,FALSE,FALSE,TRUE,Mild,,FALSE,,,,,,,,,TRUE,,,,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasal,Negative,63,,,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,37.25,99,124,87,16,95,,,,TRUE,FALSE,FALSE,FALSE,TRUE,,TRUE,FALSE,,,,,,,,,,,,,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasal,Negative,15,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,36.45,82,114,61,18,98,,,,,FALSE,,,FALSE,,,FALSE,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,,,,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasopharyngeal,Negative,42,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,36.65,,,,,,,,21,,FALSE,,,FALSE,,FALSE,TRUE,Mild,,TRUE,TRUE,,,,TRUE,TRUE,,,,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasal,Negative,40,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,36.75,78,105,75,16,98,,,7,,,,,TRUE,Mild,,FALSE,,,,,,,,TRUE,,,,,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasal,Negative,34,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,37.40,112,132,96,18,96,,,,TRUE,FALSE,,,,,,,,,,,,,,,,,,,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasal,Negative,46,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,36.95,,,,,,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasal,Negative,81,FALSE,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,38.30,88,114,75,16,97,Negative,,,TRUE,FALSE,FALSE,FALSE,FALSE,,,FALSE,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,,,,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasal,Negative,33,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,37.20,77,126,87,16,97,,,5,TRUE,FALSE,FALSE,FALSE,FALSE,,TRUE,FALSE,,,,TRUE,,,,,TRUE,,,,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasopharyngeal,Negative,57,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,37.20,86,89,43,16,96,,,,TRUE,FALSE,FALSE,FALSE,,,,,,,,,,,,,,,,,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasal,Negative,31,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,37.25,109,136,87,17,97,,,,TRUE,FALSE,FALSE,FALSE,,,,,,,,,,,,,,,,,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasopharyngeal,Negative,35,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,36.75,80,128,84,20,100,,,5,TRUE,,,,TRUE,Mild,FALSE,TRUE,Moderate,TRUE,TRUE,TRUE,,,TRUE,,,,,,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasal,Positive,53,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,37.60,87,118,72,16,97,,,4,TRUE,FALSE,FALSE,FALSE,FALSE,,,TRUE,Mild,,,TRUE,,,,TRUE,,,,,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasal,Negative,58,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,36.80,82,135,80,16,98,,,,TRUE,,,FALSE,FALSE,,FALSE,FALSE,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,,,,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasal,Negative,43,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,38.35,79,136,80,12,100,,,4,TRUE,,,,FALSE,,TRUE,FALSE,,,,TRUE,,,TRUE,,TRUE,,,,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasal,Negative,41,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,38.35,79,136,80,12,100,,,4,TRUE,,,,FALSE,,TRUE,FALSE,,,,TRUE,,,TRUE,,TRUE,,,,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasopharyngeal,Negative,39,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,36.65,,,,,,,,,,FALSE,,,,,,,,,,,,,,,,,,,FALSE
+2020-04-21,CA,SARS COV2 NAAT,Nasopharyngeal,Negative,37,,,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,37.25,84,119,80,16,98,Negative,,,TRUE,FALSE,FALSE,FALSE,,,,,,,,,,,,,,,,,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasal,Negative,34,,,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,36.90,79,145,93,16,97,,,,TRUE,FALSE,FALSE,FALSE,,,,,,,,,,,,,,,,,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasopharyngeal,Negative,56,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,,106,126,66,14,,,,3,TRUE,FALSE,FALSE,FALSE,FALSE,,TRUE,FALSE,,TRUE,,TRUE,,,,,,,,,FALSE
+2020-04-21,CA,SARS CoV w/CoV 2 RNA,Nasal,Positive,46,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,36.80,67,104,70,18,100,,,,TRUE,,,,FALSE,,,FALSE,,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,,,,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasal,Negative,58,,,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,36.75,79,132,90,16,100,,,,TRUE,FALSE,,,,,,,,,,,,,,,,,,,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasal,Negative,63,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,37.00,90,158,80,14,97,,,,FALSE,,,,,,,,,,,,,,,,,,,,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasal,Negative,61,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,37.10,89,121,83,16,99,,,,TRUE,,,FALSE,FALSE,,FALSE,FALSE,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,,,,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasal,Negative,33,TRUE,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,36.70,75,130,83,,99,,,5,TRUE,FALSE,FALSE,FALSE,FALSE,,,FALSE,,,,,,,,,,,,,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasal,Negative,21,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,37.00,82,96,71,18,98,,,3,TRUE,FALSE,FALSE,FALSE,FALSE,,TRUE,FALSE,,TRUE,TRUE,TRUE,,,TRUE,TRUE,,,,,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasal,Negative,23,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,36.90,82,113,76,,98,,,1,TRUE,FALSE,FALSE,FALSE,FALSE,,FALSE,TRUE,Mild,,TRUE,TRUE,,,,,,,,,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasal,Negative,25,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,36.85,94,154,87,14,100,,,5,TRUE,FALSE,FALSE,FALSE,TRUE,Moderate,FALSE,FALSE,,,TRUE,TRUE,,TRUE,,TRUE,TRUE,,,,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasal,Negative,33,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,36.95,81,126,87,15,98,,,2,TRUE,FALSE,FALSE,FALSE,TRUE,Mild,,FALSE,,,,TRUE,,,TRUE,,,,,,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasal,Negative,31,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,36.85,83,139,75,18,98,,,,TRUE,FALSE,FALSE,FALSE,,,,,,,,,,,,,,,,,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasopharyngeal,Negative,43,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,36.50,75,110,74,20,100,,,,TRUE,FALSE,,,,,,,,,,,,,,,,,,,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasal,Negative,37,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,36.95,85,126,88,13,98,,,7,TRUE,FALSE,FALSE,FALSE,FALSE,,FALSE,TRUE,Moderate,TRUE,TRUE,TRUE,,,,,TRUE,,,,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasal,Negative,45,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,36.90,85,142,87,16,100,,,,TRUE,FALSE,FALSE,FALSE,TRUE,Mild,,FALSE,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,,,,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasal,Positive,60,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,37.00,83,165,104,17,94,,,3,TRUE,FALSE,FALSE,FALSE,TRUE,Mild,FALSE,FALSE,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,,,,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasal,Negative,33,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,36.85,74,160,106,17,96,,,4,TRUE,FALSE,FALSE,FALSE,FALSE,,FALSE,TRUE,Mild,TRUE,TRUE,TRUE,,,,TRUE,TRUE,,,,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasopharyngeal,Negative,46,,,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,36.65,,,,,,,,,,FALSE,,,,,,,,,,,,,,,,,,,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasal,Negative,33,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,36.65,84,128,85,14,98,,,,TRUE,FALSE,TRUE,TRUE,,,,,,,,,,,,,,,,,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasopharyngeal,Negative,74,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,36.70,,,,,,,,,,FALSE,,,,,,,,,,,,,,,,,,,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasal,Negative,57,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,36.85,75,147,79,16,99,,,30,TRUE,FALSE,FALSE,FALSE,TRUE,Moderate,FALSE,TRUE,Mild,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,,,,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasal,Negative,58,,,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,37.10,78,122,69,16,99,,,,TRUE,FALSE,FALSE,FALSE,FALSE,,,FALSE,,,,,,,,,,,,,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasopharyngeal,Negative,40,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,36.65,,,,,,,,,,FALSE,,,,,,,,,,,,,,,,,,,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasopharyngeal,Negative,58,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,36.60,,,,,,,,,,FALSE,,,,,,,,,,,,,,,,,,,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasal,Negative,64,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,36.95,60,141,86,14,98,,,4,,,,,TRUE,Mild,FALSE,FALSE,,,,,,,TRUE,,,,,,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasal,Negative,41,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,36.70,80,124,83,16,99,,,,TRUE,FALSE,FALSE,FALSE,,,,,,,,,,,,,,,,,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasal,Negative,35,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,36.75,80,128,79,16,98,,,,TRUE,,,FALSE,FALSE,,,FALSE,,,,TRUE,,,,,,,,,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasal,Negative,36,,,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,36.95,85,141,87,16,97,,,,TRUE,FALSE,FALSE,FALSE,,,,,,,,,,,,,,,,,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasal,Negative,33,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,36.80,97,137,86,,96,,,4,,FALSE,,,TRUE,Moderate,TRUE,FALSE,,,TRUE,TRUE,,,,,,,,,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasopharyngeal,Positive,40,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,37.30,84,124,70,12,98,,,,,FALSE,,,,,,,,,,,,,,,,,,,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasopharyngeal,Negative,52,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,36.90,68,125,79,16,100,,,10,TRUE,FALSE,FALSE,FALSE,TRUE,Severe,,TRUE,Severe,,TRUE,,,,TRUE,,,,,,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasal,Positive,19,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,37.00,77,126,87,16,100,,,4,TRUE,FALSE,FALSE,FALSE,TRUE,Mild,,FALSE,,,,TRUE,,,,,,,,,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasal,Negative,34,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,37.15,99,127,84,14,98,,,3,TRUE,FALSE,FALSE,FALSE,TRUE,Mild,TRUE,FALSE,,TRUE,TRUE,,,,,,TRUE,,,,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasal,Negative,28,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,37.00,74,128,81,14,100,,,5,TRUE,FALSE,FALSE,FALSE,FALSE,,,TRUE,,,,,,,,,,,,,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasal,Negative,62,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,38.15,,,,,,,,2,TRUE,FALSE,FALSE,FALSE,FALSE,,,FALSE,,,TRUE,,,,,TRUE,,,,,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasal,Negative,55,FALSE,,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,37.15,75,124,83,16,100,,,,,FALSE,,,TRUE,Moderate,,FALSE,,,,,,,,,,,,,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasopharyngeal,Negative,29,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,36.90,84,118,75,16,97,Negative,Negative,,TRUE,FALSE,FALSE,FALSE,,,,,,,,,,,,,,,,,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasal,Negative,25,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,36.95,82,137,65,13,97,,,3,TRUE,FALSE,FALSE,FALSE,TRUE,Moderate,FALSE,FALSE,,TRUE,,,,,,,,"The cardiac silhouette is normal.
+There is no radiographic evidence of pulmonary edema or pneumonia.
+There is no pneumothorax visible.
+",No suspicious pulmonary opacities. Please note that chest radiographs exhibit limited sensitivity for subtle groundglass lesions as can be seen in early viral pneumonia.,https://braid.health/viewer/study/f13931c75bf98e82ba9a8dd4fcd2b9908c4c85594c8f5fe37940db9589887f76?key=BIo8HvL8W_dy__4IdBFd1pxP3xoibTLfRwG4ErLo9Okog3RzXmcB0VJL-7onLz9PlL4OpSzut_hzZZGPnC6LX0,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasal,Negative,70,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,36.95,67,152,83,15,99,,,14,TRUE,FALSE,FALSE,FALSE,TRUE,Mild,,FALSE,,,,TRUE,,,,,,"Right medial lung base opacities, favored to reflect infectious infiltrate and developing consolidation. No effusion or pneumothorax. The heart size is top normal. Degenerative changes of the spine.","Right medial lung base opacities, for which the differential includes bacterial and viral pneumonia. Imaging followup to confirm resolution.",https://braid.health/viewer/study/927543e08a9038bfa51b01104e7582d37cc67e9491c9f17c4daf6558b49aec84?key=BIo8HvL8W_dy__4IdBFd1pxP3xoibTLfRwG4ErLo9Okog3RzXmcB0VJL-7onLz9PlL4OpSzut_hzZZGPnC6LX0,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasal,Negative,63,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,37.10,112,138,85,,93,,,,FALSE,FALSE,FALSE,FALSE,FALSE,,,FALSE,,,,,,,,,,"Mild cardiomegaly.
+Trace increased prominence of interstitial septal lines could be a sign of minimal pulmonary edema.
+Prominence of the right central pulmonary vasculature also noted. There is no radiographic evidence of lobar pneumonia. Mild nonspecific left lung opacities are noted. No drainable effusion or discrete pneumothorax visible. Intact median sternotomy wires are noted. Multilevel DJD of the spine, with bridging marginal osteophytes.
+","1. Mild cardiomegaly and pulmonary edema. 
+2. Left lung nonspecific opacities, for which the differential includes viral pneumonia.",https://braid.health/viewer/study/d641c75ff56cc0f0065484f53b45a301f2282076c9cb042eecab2114582ca79a?key=BIo8HvL8W_dy__4IdBFd1pxP3xoibTLfRwG4ErLo9Okog3RzXmcB0VJL-7onLz9PlL4OpSzut_hzZZGPnC6LX0,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasal,Negative,36,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,37.10,98,120,82,16,100,,,,TRUE,FALSE,FALSE,FALSE,,,,,,,,,,,,,,"The cardiac silhouette is normal.
+Low lung volumes accentuate atelectatic markings. Within those confines, there is no radiographic evidence of pulmonary edema or pneumonia. There is no pneumothorax visible.
+",No acute abnormality.,https://braid.health/viewer/study/4bd9540113778659942dc022ee2da6800a45c781cf20120e8c57249db7952dfe?key=BIo8HvL8W_dy__4IdBFd1pxP3xoibTLfRwG4ErLo9Okog3RzXmcB0VJL-7onLz9PlL4OpSzut_hzZZGPnC6LX0,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasal,Negative,39,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,36.85,88,112,43,,100,,,7,TRUE,FALSE,FALSE,FALSE,TRUE,Moderate,TRUE,TRUE,Moderate,,TRUE,TRUE,,,TRUE,TRUE,TRUE,"The cardiac silhouette is normal.
+There is no radiographic evidence of pulmonary edema or pneumonia, allowing for low lung volumes which accentuate atelectasis.
+There is no pneumothorax visible.
+Multilevel degenerative disc disease of the spine.","No acute abnormality, allowing for mildly low lung volumes. Please note that chest radiographs may not exhibit sensitivity to subtle groundglass lesions as can be seen in early viral pneumonia.",https://braid.health/viewer/study/647e8c560732b87ac78a36b33e091444a933bd364933d802686d2f2eef974cad?key=BIo8HvL8W_dy__4IdBFd1pxP3xoibTLfRwG4ErLo9Okog3RzXmcB0VJL-7onLz9PlL4OpSzut_hzZZGPnC6LX0,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasal,Negative,42,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,36.90,85,151,91,12,96,,,,,FALSE,TRUE,TRUE,,,,,,,,,,,,,,"The cardiac silhouette is normal.
+There is no radiographic evidence of pulmonary edema. No effusions are present. There is no pneumothorax visible. Subtle borderline left lung base nonspecific opacity
+","Subtle borderline left lung base nonspecific opacity, the differential for which includes early viral pneumonia.",https://braid.health/viewer/study/74012f9f686428f57b184dab0af40605499e6d89284cef8bf519ce5bd13c45f2?key=BIo8HvL8W_dy__4IdBFd1pxP3xoibTLfRwG4ErLo9Okog3RzXmcB0VJL-7onLz9PlL4OpSzut_hzZZGPnC6LX0,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasopharyngeal,Negative,41,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,36.80,92,104,64,15,97,,,10,TRUE,FALSE,FALSE,FALSE,TRUE,Moderate,FALSE,TRUE,Moderate,,TRUE,TRUE,,,,,TRUE,"The cardiac silhouette is normal.
+There is no radiographic evidence of pulmonary edema.
+There is no radiographic evidence of pneumonia.
+There is no pneumothorax visible.
+",No significant abnormality.,https://braid.health/viewer/study/aed6f25f2e1f1248db635787920e229bf072ec0009d86a2f87722997ed549b92?key=BIo8HvL8W_dy__4IdBFd1pxP3xoibTLfRwG4ErLo9Okog3RzXmcB0VJL-7onLz9PlL4OpSzut_hzZZGPnC6LX0,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasal,Negative,33,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,36.80,56,132,80,12,96,,,14,TRUE,FALSE,FALSE,FALSE,TRUE,Mild,FALSE,TRUE,Moderate,,TRUE,TRUE,,,TRUE,,,"The cardiac silhouette is normal.
+There is no radiographic evidence of pulmonary edema.
+There is subtle ill-defined opacity in the left lung base.
+There is no pneumothorax visible.
+","Minimal nonspecific pulmonary opacity in the left lung base, for which the differential includes early viral pneumonia.",https://braid.health/viewer/study/5b8a89a5940bc50964b9cc66356120f17ac17031a9c5624519fee439ec96e783?key=BIo8HvL8W_dy__4IdBFd1pxP3xoibTLfRwG4ErLo9Okog3RzXmcB0VJL-7onLz9PlL4OpSzut_hzZZGPnC6LX0,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasal,Negative,22,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,37.15,71,116,76,16,98,,,30,TRUE,FALSE,FALSE,FALSE,TRUE,,,FALSE,,,TRUE,,,,,,,"The cardiac silhouette is normal.
+There is no radiographic evidence of pulmonary edema or pneumonia.
+There is no pneumothorax visible.
+",No suspicious opacities. Please note that chest radiographs may not exhibit sensitivity for subtle groundglass lesions as can be seen in early viral pneumonia.,https://braid.health/viewer/study/73eddff9e0eff699977598b63f1f761dae5d5a86b3610f0b5a8d7438747679d0?key=BIo8HvL8W_dy__4IdBFd1pxP3xoibTLfRwG4ErLo9Okog3RzXmcB0VJL-7onLz9PlL4OpSzut_hzZZGPnC6LX0,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasal,Negative,46,,,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,36.60,78,109,68,16,95,,,,TRUE,FALSE,FALSE,FALSE,,,,,,,,,,,,,,"The cardiac silhouette is normal.
+There is no radiographic evidence of pulmonary edema or effusion. Small nonspecific subtle opacities are noted in the right perihilar region and lung base. There is no pneumothorax visible.
+","Nonspecific right lung opacities, for which the differential includes viral pneumonia, with other etiologies not excluded.",https://braid.health/viewer/study/88040d09921e362cc1620b53e813a5be6ba381c6ee26c81f5da87bd412fa3113?key=BIo8HvL8W_dy__4IdBFd1pxP3xoibTLfRwG4ErLo9Okog3RzXmcB0VJL-7onLz9PlL4OpSzut_hzZZGPnC6LX0,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasal,Negative,55,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,37.40,97,116,73,12,95,,,,TRUE,FALSE,FALSE,FALSE,FALSE,,,FALSE,,,TRUE,,,,TRUE,,TRUE,"The cardiac silhouette is normal.
+There is no radiographic evidence of pulmonary edema or pneumonia.
+There is no pneumothorax visible. Mild degenerative disc disease of the spine.
+",No definite suspicious pulmonary opacities. Please note that chest radiographs may exhibit limited sensitivity for subtle groundglass lesions as can be seen in early viral pneumonia.,https://braid.health/viewer/study/0ecad9eb9d04d85ccf62688297300975cba44328b69341202991c513c9ee5fc1?key=BIo8HvL8W_dy__4IdBFd1pxP3xoibTLfRwG4ErLo9Okog3RzXmcB0VJL-7onLz9PlL4OpSzut_hzZZGPnC6LX0,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasal,Negative,62,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,37.20,82,131,82,16,98,,,7,TRUE,FALSE,FALSE,FALSE,FALSE,,TRUE,FALSE,,,TRUE,TRUE,,,TRUE,TRUE,,"The cardiac silhouette is normal.
+There is no radiographic evidence of pulmonary edema.
+There is no radiographic evidence of pneumonia.
+There is no pneumothorax visible.
+",No significant abnormality.,https://braid.health/viewer/study/a98400adfb89d4593d640ea6862bffa55eda0ea1bdde369650830de0645d09e5?key=BIo8HvL8W_dy__4IdBFd1pxP3xoibTLfRwG4ErLo9Okog3RzXmcB0VJL-7onLz9PlL4OpSzut_hzZZGPnC6LX0,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasal,Negative,38,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,36.65,77,122,81,16,99,,,,TRUE,FALSE,FALSE,FALSE,,,,,,,,,,,,,,The lungs are clear. The heart size is normal.,No acute radiographic abnormality.,https://braid.health/viewer/study/d3b2c9dcee5305013edb396be499cf33e8491111c057b667a5cfbb32c2c8b7bf?key=BIo8HvL8W_dy__4IdBFd1pxP3xoibTLfRwG4ErLo9Okog3RzXmcB0VJL-7onLz9PlL4OpSzut_hzZZGPnC6LX0,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasal,Negative,27,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,37.35,87,108,72,16,98,,,,TRUE,FALSE,,,,,,,,,,,,,,,,"The cardiac silhouette is normal.
+There is no radiographic evidence of pulmonary edema.
+There is no radiographic evidence of pneumonia.
+There is no pneumothorax visible.
+",No significant abnormality.,https://braid.health/viewer/study/1f829e1c8f86ba1184e3687b27dad5f67ce39e926d435c60ddf67a316a36f412?key=BIo8HvL8W_dy__4IdBFd1pxP3xoibTLfRwG4ErLo9Okog3RzXmcB0VJL-7onLz9PlL4OpSzut_hzZZGPnC6LX0,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasal,Negative,54,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,36.80,86,86,55,16,97,,,,TRUE,FALSE,FALSE,FALSE,FALSE,,FALSE,FALSE,,TRUE,,TRUE,TRUE,TRUE,,,,"The cardiac silhouette is normal.
+There is no radiographic evidence of pulmonary edema.
+There is no radiographic evidence of pneumonia.
+There is no pneumothorax visible.
+",No significant abnormality.,https://braid.health/viewer/study/30f722066ea74ac2edbfdeee2b1e26c028574f0723d94c4e567f9c4e341fc0b6?key=BIo8HvL8W_dy__4IdBFd1pxP3xoibTLfRwG4ErLo9Okog3RzXmcB0VJL-7onLz9PlL4OpSzut_hzZZGPnC6LX0,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasal,Negative,32,,,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,36.75,54,119,70,16,99,,,,TRUE,FALSE,,,,,,,,,,,,,,,,"The cardiac silhouette is normal.
+There is no radiographic evidence of pulmonary edema.
+There is no radiographic evidence of pneumonia.
+There is no pneumothorax visible.
+",No significant abnormality.,https://braid.health/viewer/study/1b89ee229a78a6328f483eab1ed671991aad7d73187378031ce7746511d04ccd?key=BIo8HvL8W_dy__4IdBFd1pxP3xoibTLfRwG4ErLo9Okog3RzXmcB0VJL-7onLz9PlL4OpSzut_hzZZGPnC6LX0,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasal,Negative,58,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,36.85,92,146,89,16,96,,,,TRUE,FALSE,FALSE,FALSE,,,,,,,,,,,,,,"The cardiac silhouette is normal.
+There is no radiographic evidence of pulmonary edema.
+There is minimal right basilar infiltrate. This persists from 4/5/2020.
+There is no pneumothorax visible.
+",Minimal R basilar infiltrate,https://braid.health/viewer/study/a8f6edca3438ee00026e9113d419149bad4c61f6483570f3f09ffa33942b5cbd?key=BIo8HvL8W_dy__4IdBFd1pxP3xoibTLfRwG4ErLo9Okog3RzXmcB0VJL-7onLz9PlL4OpSzut_hzZZGPnC6LX0,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasal,Negative,24,TRUE,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,36.65,92,124,78,12,96,,,2,TRUE,FALSE,FALSE,FALSE,TRUE,,,TRUE,,,,,,,,,TRUE,"The cardiac silhouette is normal.
+There is no radiographic evidence of pulmonary edema or lobar pneumonia.
+There is no pneumothorax visible.
+","No suspicious pulmonary opacities.
+
+Please note that chest radiographs may not exhibit sensitivity to groundglass lesions as can be seen with viral pneumonia.",https://braid.health/viewer/study/c1744e41b0e451f24a45ef01e980c025d696ca6bcd081623795ad75caae67f50?key=BIo8HvL8W_dy__4IdBFd1pxP3xoibTLfRwG4ErLo9Okog3RzXmcB0VJL-7onLz9PlL4OpSzut_hzZZGPnC6LX0,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasal,Negative,31,,,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,36.85,80,133,79,16,98,,,,TRUE,FALSE,FALSE,FALSE,,,,,,,,,,,,,,The lungs are clear. There is no effusion or pneumothorax. The heart size is normal.,"No suspicious pulmonary opacities.
+ 
+Please note that chest radiographs may not exhibit sensitivity for subtle groundglass lesions as can be seen in early viral pneumonia.",https://braid.health/viewer/study/d5753de2367a1b973f1d97f9bd0d3bdcb7471dcdd782e3a49cca230b725c8e76?key=BIo8HvL8W_dy__4IdBFd1pxP3xoibTLfRwG4ErLo9Okog3RzXmcB0VJL-7onLz9PlL4OpSzut_hzZZGPnC6LX0,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasopharyngeal,Negative,31,,,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,36.85,80,133,79,16,98,,,,TRUE,FALSE,FALSE,FALSE,,,,,,,,,,,,,,The lungs are clear. There is no effusion or pneumothorax. The heart size is normal.,"No suspicious pulmonary opacities.
+ 
+Please note that chest radiographs may not exhibit sensitivity for subtle groundglass lesions as can be seen in early viral pneumonia.",https://braid.health/viewer/study/d5753de2367a1b973f1d97f9bd0d3bdcb7471dcdd782e3a49cca230b725c8e76?key=BIo8HvL8W_dy__4IdBFd1pxP3xoibTLfRwG4ErLo9Okog3RzXmcB0VJL-7onLz9PlL4OpSzut_hzZZGPnC6LX0,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasal,Negative,51,FALSE,TRUE,TRUE,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,37.00,78,158,99,16,98,Negative,,4,TRUE,FALSE,FALSE,FALSE,TRUE,Moderate,TRUE,TRUE,Mild,,TRUE,TRUE,,,,TRUE,,"The cardiac silhouette is normal.
+There is no radiographic evidence of pulmonary edema.
+There is right upper lobe segmental consolidation extending to the periphery. No effusions are present.
+There is no pneumothorax visible.
+","Consolidation in the right mid to upper lung fields, concerning for pneumonia.",https://braid.health/viewer/study/e08efc74e2ed09d1153e148e00d40c71488cf9fc55d4878398b97ebe09fe1b5f?key=BIo8HvL8W_dy__4IdBFd1pxP3xoibTLfRwG4ErLo9Okog3RzXmcB0VJL-7onLz9PlL4OpSzut_hzZZGPnC6LX0,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasal,Negative,38,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,37.25,90,146,96,,98,,,,TRUE,FALSE,FALSE,FALSE,,,,,,,,,,,,,,"The cardiac silhouette is normal.
+There is no radiographic evidence of pulmonary edema.
+There is no radiographic evidence of pneumonia.
+There is no pneumothorax visible.
+",No significant abnormality.,https://braid.health/viewer/study/76df6c24a643496f169749086bbb914745c8351bf6db38570b5af6454c6e97fc?key=BIo8HvL8W_dy__4IdBFd1pxP3xoibTLfRwG4ErLo9Okog3RzXmcB0VJL-7onLz9PlL4OpSzut_hzZZGPnC6LX0,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasopharyngeal,Positive,28,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,36.90,97,122,83,16,99,,,2,TRUE,FALSE,FALSE,FALSE,TRUE,Moderate,FALSE,FALSE,,,,TRUE,,,,TRUE,TRUE,"The cardiac silhouette is normal.
+There is no radiographic evidence of pulmonary edema. Subtle multifocal opacities are noted bilaterally.
+There is no pneumothorax or effusion visible.
+","Subtle multifocal pulmonary opacities bilaterally, for which the differential includes early viral pneumonia, with other etiologies not excluded. Attention on followup imaging recommended.",https://braid.health/viewer/study/7630e7243f24de4ab788bab553451aff5f204776dacd3904dcfa799b113aa2ce?key=BIo8HvL8W_dy__4IdBFd1pxP3xoibTLfRwG4ErLo9Okog3RzXmcB0VJL-7onLz9PlL4OpSzut_hzZZGPnC6LX0,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasopharyngeal,Negative,52,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,37.00,98,139,83,16,97,,,14,TRUE,FALSE,FALSE,FALSE,FALSE,,,TRUE,,,TRUE,,,,,,TRUE,"The cardiac silhouette is normal.
+There is no radiographic evidence of pulmonary edema or pneumonia.
+There is no pneumothorax visible. Subtle right lung base nonspecific opacity.
+","Subtle right lung base nonspecific opacity, for which the differential includes early viral pneumonia.",https://braid.health/viewer/study/c1cc9dce5b13bbf87d22c93a00690ea7eddc2c21732ca607ec1d258d3c0ccf38?key=BIo8HvL8W_dy__4IdBFd1pxP3xoibTLfRwG4ErLo9Okog3RzXmcB0VJL-7onLz9PlL4OpSzut_hzZZGPnC6LX0,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasal,Negative,28,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,37.15,63,105,74,16,99,,,49,TRUE,FALSE,FALSE,FALSE,TRUE,Moderate,FALSE,FALSE,,,,,,,,TRUE,TRUE,"The cardiac silhouette is normal.
+There is no radiographic evidence of pulmonary edema or pneumonia. Borderline low lung volumes.
+There is no pneumothorax visible.
+",No acute radiographic abnormality.,https://braid.health/viewer/study/c0846bc3ac9bab5a254371c379a00e535502aa216f188ca57c784bd1f158408e?key=BIo8HvL8W_dy__4IdBFd1pxP3xoibTLfRwG4ErLo9Okog3RzXmcB0VJL-7onLz9PlL4OpSzut_hzZZGPnC6LX0,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasal,Negative,22,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,,77,119,60,,97,,,,,FALSE,,,,,,,,,,,,,,,,"The cardiac silhouette is normal.
+There is no radiographic evidence of pulmonary edema or lobar pneumonia. Trace multifocal opacities are suggested, more pronounced in the right lateral lung base. There is no pneumothorax visible.
+","Borderline trace nonspecific pulmonary opacities, the differential for which includes early viral pneumonia, with other etiologies such as atelectasis not excluded.",https://braid.health/viewer/study/7e87c631873bd6554e31c496808221da9a984c4d8e296114620265182ff5f5a5?key=BIo8HvL8W_dy__4IdBFd1pxP3xoibTLfRwG4ErLo9Okog3RzXmcB0VJL-7onLz9PlL4OpSzut_hzZZGPnC6LX0,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasal,Negative,48,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,36.90,70,128,84,17,95,,,7,TRUE,FALSE,FALSE,FALSE,TRUE,,FALSE,TRUE,,TRUE,FALSE,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,"The cardiac silhouette is normal.
+There is no radiographic evidence of pulmonary edema or pneumonia.
+There is no pneumothorax or effusion visible.
+","No suspicious pulmonary opacities. No acute radiographic abnormality.
+
+Please note that chest radiographs may not exhibit sensitivity for subtle groundglass lesions as can be seen in early viral pneumonia.",https://braid.health/viewer/study/2d756831293352ddc0195154c5b26cd7f84d1b4ed1b29a2dc404c6152b8a0aba?key=BIo8HvL8W_dy__4IdBFd1pxP3xoibTLfRwG4ErLo9Okog3RzXmcB0VJL-7onLz9PlL4OpSzut_hzZZGPnC6LX0,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasal,Positive,40,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,,116,,,25,93,,,2,TRUE,FALSE,FALSE,FALSE,TRUE,Mild,TRUE,TRUE,Mild,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,TRUE,"The cardiac silhouette is normal.
+There is no radiographic evidence of pulmonary edema.
+There is no radiographic evidence of pneumonia.
+There is no pneumothorax visible.
+",No significant abnormality.,https://braid.health/viewer/study/34bde2b6d00cc3553a955f14f8dc64df1cd11cc19909758ae56d55366ca63bef?key=BIo8HvL8W_dy__4IdBFd1pxP3xoibTLfRwG4ErLo9Okog3RzXmcB0VJL-7onLz9PlL4OpSzut_hzZZGPnC6LX0,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasal,Negative,51,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,36.80,79,114,79,16,100,,,21,TRUE,FALSE,FALSE,FALSE,FALSE,,FALSE,TRUE,Moderate,,TRUE,,,,,,,"The cardiac silhouette is normal.
+There is no radiographic evidence of pulmonary edema.
+There is no radiographic evidence of pneumonia.
+There is no pneumothorax visible. A pacemaker, sternotmomy wires and multiple leads are present.
+",No acute abnormality.,https://braid.health/viewer/study/072ac7ccb4d87304c82fd20a9413550bfc327cd8da60154ec56b79414f8cb028?key=BIo8HvL8W_dy__4IdBFd1pxP3xoibTLfRwG4ErLo9Okog3RzXmcB0VJL-7onLz9PlL4OpSzut_hzZZGPnC6LX0,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasal,Negative,40,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,37.40,93,97,66,16,98,,,35,TRUE,FALSE,FALSE,FALSE,TRUE,Mild,FALSE,TRUE,Moderate,TRUE,TRUE,,,,,TRUE,,"The cardiac silhouette is normal.
+There is no radiographic evidence of pulmonary edema.
+There is no radiographic evidence of pneumonia.
+There is no pneumothorax visible. Scoliosis is present.
+",No acute abnormality.,https://braid.health/viewer/study/fd159fe9289518b05a76b274a530aec801cd210ddc2eb2a1e1f7c479b731dcb7?key=BIo8HvL8W_dy__4IdBFd1pxP3xoibTLfRwG4ErLo9Okog3RzXmcB0VJL-7onLz9PlL4OpSzut_hzZZGPnC6LX0,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasal,Negative,20,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,37.00,81,114,73,16,99,,,28,TRUE,FALSE,FALSE,FALSE,TRUE,Moderate,FALSE,TRUE,Mild,TRUE,TRUE,TRUE,,,TRUE,TRUE,,"The cardiac silhouette is normal.
+There is no radiographic evidence of pulmonary edema.
+There is no radiographic evidence of pneumonia.
+There is no pneumothorax visible.
+",No significant abnormality.,https://braid.health/viewer/study/f24f8f4117fef15591eb6858386c1972d6d7fb313de83594354d5c8c92ee822c?key=BIo8HvL8W_dy__4IdBFd1pxP3xoibTLfRwG4ErLo9Okog3RzXmcB0VJL-7onLz9PlL4OpSzut_hzZZGPnC6LX0,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasal,Negative,55,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,37.20,69,153,82,12,97,,,3,TRUE,FALSE,FALSE,FALSE,TRUE,Mild,FALSE,FALSE,,TRUE,,TRUE,,,,,,"The cardiac silhouette is normal.
+There is no radiographic evidence of pulmonary edema or lobar pneumonia.
+There is no pneumothorax visible.
+Subtle right linear opacity in the lung base, favored to reflect atelectasis versus, less likely, infectious infiltrate.","Subtle right lung base opacity, favored to reflect atelectasis versus, less likely, infectious infiltrate.",https://braid.health/viewer/study/bc477a9fbad5f5830da84de69b80fbab4e3cf9c4562f2ca0aa1aecd4ff57e4ad?key=BIo8HvL8W_dy__4IdBFd1pxP3xoibTLfRwG4ErLo9Okog3RzXmcB0VJL-7onLz9PlL4OpSzut_hzZZGPnC6LX0,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasal,Negative,30,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,37.00,104,113,73,18,97,,,,TRUE,FALSE,FALSE,FALSE,,,,,,,,,,,,,,"The cardiac silhouette is normal.
+There is no radiographic evidence of pulmonary edema or pneumonia.
+There is no pneumothorax visible.
+",No significant abnormality.,https://braid.health/viewer/study/37c154d925d7dc466f3287dd0957753d7e111619b309cb18a4293738cd3d2a6b?key=BIo8HvL8W_dy__4IdBFd1pxP3xoibTLfRwG4ErLo9Okog3RzXmcB0VJL-7onLz9PlL4OpSzut_hzZZGPnC6LX0,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasal,Negative,37,,,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,36.80,74,114,83,12,99,,,,TRUE,FALSE,FALSE,FALSE,,,,,,,,,,,,,,"The cardiac silhouette is normal.
+There is no radiographic evidence of pulmonary edema or lobar pneumonia. Pleural-parenchymal apical scarring.
+There is no pneumothorax visible.
+",No acute radiographic abnormality.,https://braid.health/viewer/study/bdc28350d3b83f371f36a999ecfac92568f0f2c0570deb0da71c7c2bb75698ca?key=BIo8HvL8W_dy__4IdBFd1pxP3xoibTLfRwG4ErLo9Okog3RzXmcB0VJL-7onLz9PlL4OpSzut_hzZZGPnC6LX0,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasal,Negative,29,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,37.50,90,127,82,15,95,,,3,FALSE,FALSE,TRUE,FALSE,TRUE,Moderate,TRUE,FALSE,,,TRUE,TRUE,,,,,TRUE,"The cardiac silhouette is normal.
+There is no radiographic evidence of pulmonary edema.
+There is moderate right middle lobe infiltrate.
+There is no pneumothorax visible.
+",RML infiltrate,https://braid.health/viewer/study/9cc4233317910fc6b6c65c613baae1333878e352f9f8b1e504fe3e7b4f5370a0?key=BIo8HvL8W_dy__4IdBFd1pxP3xoibTLfRwG4ErLo9Okog3RzXmcB0VJL-7onLz9PlL4OpSzut_hzZZGPnC6LX0,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasal,Negative,32,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,36.85,94,138,86,16,98,,,30,TRUE,FALSE,FALSE,FALSE,TRUE,Moderate,,FALSE,,,,,,,,,,"The cardiac silhouette is normal.
+There is no radiographic evidence of pulmonary edema or pneumonia.
+There is no pneumothorax visible.
+","No suspicious pulmonary opacities. Please note that chest radiographs may not be sensitive for subtle groundglass opacities, as can be seen in early viral pneumonia.",https://braid.health/viewer/study/bde25e15e007a4957028f5372ee3b354bcac14b722971e644f63acd9a9bf26b1?key=BIo8HvL8W_dy__4IdBFd1pxP3xoibTLfRwG4ErLo9Okog3RzXmcB0VJL-7onLz9PlL4OpSzut_hzZZGPnC6LX0,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasal,Negative,18,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,36.95,74,99,62,18,100,,,,TRUE,FALSE,FALSE,FALSE,,,,,,,,,,,,,,"The cardiac silhouette is normal.
+There is no radiographic evidence of pulmonary edema or pneumonia.
+There is no pneumothorax visible.
+","No acute abnormality. Please note that based on the Left marker position, this patient may either be laterally inverted due to technical factors during image acquisition, or less likely, a presentation of situs inversus.",https://braid.health/viewer/study/8bad48787d7b946664383c964c8a2c903f6d71866f1d9befbbfde6a6bfa6012c?key=BIo8HvL8W_dy__4IdBFd1pxP3xoibTLfRwG4ErLo9Okog3RzXmcB0VJL-7onLz9PlL4OpSzut_hzZZGPnC6LX0,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasal,Negative,61,,,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,36.75,82,160,85,12,99,,,21,TRUE,FALSE,FALSE,FALSE,FALSE,,,TRUE,Mild,,,,,,,,,"The cardiac silhouette is normal.
+There is no radiographic evidence of pulmonary edema or pneumonia. The intact lead from a side-mounted left chest wall pacing device courses along the external soft tissues, toward midline and superiorly, terminating anterior to sternum. There is no pneumothorax visible. Multilevel DJD of the spine with bridging marginal osteophytes.","No suspicious pulmonary opacities.
+
+Please note that chest radiographs may not exhibit sensitivity for subtle groundglass lesions as can be seen with early viral pneumonia.",https://braid.health/viewer/study/d31eadd5b9c454d64c2feaf10c9cc19d444f3e205232a9a7882510663a814559?key=BIo8HvL8W_dy__4IdBFd1pxP3xoibTLfRwG4ErLo9Okog3RzXmcB0VJL-7onLz9PlL4OpSzut_hzZZGPnC6LX0,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasal,Negative,25,,,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,36.80,92,114,84,16,100,,,,TRUE,FALSE,FALSE,FALSE,,,,,,,,,,,,,,"The cardiac silhouette is normal.
+There is no radiographic evidence of pulmonary edema.
+There is no radiographic evidence of pneumonia. Scoliosis is present.
+There is no pneumothorax visible.
+",No acute abnormality.,https://braid.health/viewer/study/8bbc6c28641b790dacee6d6b1927ef611cf093c1adf5ed4198777794cfbda544?key=BIo8HvL8W_dy__4IdBFd1pxP3xoibTLfRwG4ErLo9Okog3RzXmcB0VJL-7onLz9PlL4OpSzut_hzZZGPnC6LX0,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasal,Negative,54,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,37.80,104,142,82,18,100,,,2,TRUE,FALSE,FALSE,FALSE,TRUE,Mild,TRUE,FALSE,,,TRUE,TRUE,,,,TRUE,,"The cardiac silhouette is normal.
+There is no radiographic evidence of pulmonary edema or pneumonia.
+There is no pneumothorax visible.
+",No radiographic evidence of acute abnormality. Please note that radiographs exhibit limited sensitivity for subtle groundglass pulmonary opacities as can be seen with early viral infection.,https://braid.health/viewer/study/cf9a6802d4bddc6f56aeedba914d1c75d6059cea5c7f643da89f7785d6b0ad61?key=BIo8HvL8W_dy__4IdBFd1pxP3xoibTLfRwG4ErLo9Okog3RzXmcB0VJL-7onLz9PlL4OpSzut_hzZZGPnC6LX0,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasal,Negative,43,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,36.75,98,110,70,17,97,,,30,TRUE,FALSE,FALSE,FALSE,FALSE,,FALSE,TRUE,Mild,FALSE,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,"The cardiac silhouette is normal.
+There is no radiographic evidence of pulmonary edema.
+Small bilateral effusions are visible. 
+There is no pneumothorax visible. The patient is rotated.
+","Small bilateral effusions, versus, less likely, pleural thickening. No definite suspicious lung opacities. Please note that chest radiographs may not be sensitive for subtle groundglass lesions as can be seen in early viral pneumonia.",https://braid.health/viewer/study/8b1e3ff83bdbe63ecd4cddea1a367f7d5231c37f17b794c5c7e7777ce89030e3?key=BIo8HvL8W_dy__4IdBFd1pxP3xoibTLfRwG4ErLo9Okog3RzXmcB0VJL-7onLz9PlL4OpSzut_hzZZGPnC6LX0,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasal,Negative,48,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,36.85,92,137,81,16,97,,,,TRUE,FALSE,FALSE,FALSE,FALSE,,TRUE,TRUE,Mild,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,"The cardiac silhouette is normal.
+There is no radiographic evidence of pulmonary edema.
+There is no radiographic evidence of pneumonia.
+There is no pneumothorax visible.
+",No significant abnormality.,https://braid.health/viewer/study/9521bb0718b7a0623c930f12b6f85749a1bf22352e50f63b6d8b4e7eebf290b6?key=BIo8HvL8W_dy__4IdBFd1pxP3xoibTLfRwG4ErLo9Okog3RzXmcB0VJL-7onLz9PlL4OpSzut_hzZZGPnC6LX0,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasal,Negative,54,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,38.20,76,150,88,,94,Negative,,,TRUE,FALSE,FALSE,FALSE,TRUE,,,FALSE,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,"The cardiac silhouette is normal.
+There is no radiographic evidence of pulmonary edema or lobar pneumonia. Subtle central right lung opacities adjacent to the hilum. No effusions are noted. There is no pneumothorax visible.
+","Right pulmonary nonspecific opacities, for which the differential includes early viral pneumonia.",https://braid.health/viewer/study/1c73feaf278a87d9a9bcea8fcac788496a9d4c38cc1cbb5d3d4f4a1baef3a819?key=BIo8HvL8W_dy__4IdBFd1pxP3xoibTLfRwG4ErLo9Okog3RzXmcB0VJL-7onLz9PlL4OpSzut_hzZZGPnC6LX0,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasopharyngeal,Positive,27,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,37.20,92,105,74,12,98,,,,TRUE,FALSE,FALSE,FALSE,,,,,,,,,,,,,,"Small opacities are noted peripherally, especially involving the left lung. The heart size is top normal. No discrete effusion or pneumothorax.","Peripheral pulmonary opacities, for which the differential includes viral or bacterial pneumonia.",https://braid.health/viewer/study/04ce8414f8b063122dd238843a3fab7cfa7fb1536869550bc2d329a674c14ba6?key=BIo8HvL8W_dy__4IdBFd1pxP3xoibTLfRwG4ErLo9Okog3RzXmcB0VJL-7onLz9PlL4OpSzut_hzZZGPnC6LX0,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasal,Negative,27,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,37.10,100,130,80,16,95,,,30,TRUE,FALSE,FALSE,FALSE,TRUE,Mild,FALSE,TRUE,Moderate,,,TRUE,,,,,,"The cardiac silhouette is normal.
+There is no radiographic evidence of pulmonary edema or pneumonia.
+There is no pneumothorax visible.
+","No suspicious pulmonary opacities. Please note that chest radiographs may not exhibit sensitivity for subtle groundglass lesions, as can be seen with early viral pneumonia.",https://braid.health/viewer/study/c0d2d3dde8124188d4ddccdaac84b591445eb64bd37b0dc7160db681f8cb86cb?key=BIo8HvL8W_dy__4IdBFd1pxP3xoibTLfRwG4ErLo9Okog3RzXmcB0VJL-7onLz9PlL4OpSzut_hzZZGPnC6LX0,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasal,Negative,47,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,36.95,94,124,86,,100,,,,FALSE,FALSE,TRUE,TRUE,,,,,,,,,,,,,,"The cardiac silhouette is normal.
+There is no radiographic evidence of pulmonary edema.
+There is no radiographic evidence of pneumonia.
+There is no pneumothorax visible.
+",No significant abnormality.,https://braid.health/viewer/study/dbc4562020df32e6f8eb534f915dca64f446c6ce61389b822f44433ba0828e62?key=BIo8HvL8W_dy__4IdBFd1pxP3xoibTLfRwG4ErLo9Okog3RzXmcB0VJL-7onLz9PlL4OpSzut_hzZZGPnC6LX0,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasal,Negative,40,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,36.85,88,139,92,12,97,,,,TRUE,FALSE,FALSE,FALSE,,,,,,,,,,,,,,"Low lung volumes. Left greater than right linear opacities involving the lung bases, favored to reflect discoid atelectasis. The heart size is top normal. No effusion or pneumothorax. Subtle curvilear apparent interface involving the left 8th rib.","Subtle curvilear apparent interface involving the left 8th rib. In the setting of rib pain, this raises concern for fracture and/or small left effusion.",https://braid.health/viewer/study/8faab4df676248d457fb5390d491ab4881f8d6a36d3e58ec3b10a80442fd0744?key=BIo8HvL8W_dy__4IdBFd1pxP3xoibTLfRwG4ErLo9Okog3RzXmcB0VJL-7onLz9PlL4OpSzut_hzZZGPnC6LX0,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasal,Negative,31,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,,,,,,100,,,,FALSE,FALSE,TRUE,FALSE,,,,,,,,,,,,,,"The cardiac silhouette is normal.
+There is no radiographic evidence of pulmonary edema or pneumonia. Suggestion of mass-like spiculated density overlying the medial left breast. There is no pneumothorax visible.
+","1. Suggestion of mass-like spiculated density overlying the medial left chest, favored to be within the breast. Recommend correlation with mammography, and if inconclusive, CT Chest to assess for underlying lung lesion.
+2. No evidence of pneumonia.",https://braid.health/viewer/study/cdb1e97a761e28de36c4bd62bc734e10bef739d44651eda37dbe7f9afef64fd2?key=BIo8HvL8W_dy__4IdBFd1pxP3xoibTLfRwG4ErLo9Okog3RzXmcB0VJL-7onLz9PlL4OpSzut_hzZZGPnC6LX0,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasal,Negative,47,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,36.60,72,119,82,16,97,,,120,FALSE,FALSE,,,TRUE,Mild,FALSE,FALSE,,,,,,,,,,"Even allowing for low lung volumes, diffuse interstitial septal prominence appearing somewhat increased sompared to expected degree. No discrete lobar consolidation. The heart size is top normal. No effusion or pneumothorax. Cholecystectomy clips in the RUQ.","Diffuse interstitial septal prominence, most consistent with mild pulmonary edema.",https://braid.health/viewer/study/94973cecb9f577272436bc58d0e3b2334fc9dc7fa84eac2b82e6a02bc62260a6?key=BIo8HvL8W_dy__4IdBFd1pxP3xoibTLfRwG4ErLo9Okog3RzXmcB0VJL-7onLz9PlL4OpSzut_hzZZGPnC6LX0,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasal,Negative,46,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,36.65,86,116,79,12,96,,,1,TRUE,FALSE,FALSE,FALSE,FALSE,,FALSE,TRUE,Moderate,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,"Coarse interstitial markings and moderate emphysematous changes evidence. The heart size is normal. No lobar consolidation, effusion or pneumothorax. Multilevel DJD of the spine.","No definite suspicious pulmonary opacities. Moderate emphysema noted.
+
+Please note that chest radiographs may not exhibit sensitivity to subtle groundglass lesions as can be seen in viral pneumonia.",https://braid.health/viewer/study/327f2e56be4f2c2fac6f2ebfe43285d4a4f9222dc6b9cd59261eae793f40e522?key=BIo8HvL8W_dy__4IdBFd1pxP3xoibTLfRwG4ErLo9Okog3RzXmcB0VJL-7onLz9PlL4OpSzut_hzZZGPnC6LX0,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasal,Negative,75,,,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,37.30,95,144,80,16,96,,,,TRUE,FALSE,FALSE,FALSE,FALSE,,,FALSE,,,,,,,,,,"Multifocal opacities, left greater than right, concerning for infectious/inflammatory infiltrate. The heart size is top normal. No pneumothorax or drainable effusion.","Multifocal opacities, left greater than right, concerning for infectious/inflammatory infiltrate. This could represent sequalae of viral pneumonia in the appropriate clinical setting.",https://braid.health/viewer/study/c04214059a23c0c1f02361d9547e5e90f093e9e27c2771a9ca5d99ce2bdf5ff8?key=BIo8HvL8W_dy__4IdBFd1pxP3xoibTLfRwG4ErLo9Okog3RzXmcB0VJL-7onLz9PlL4OpSzut_hzZZGPnC6LX0,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasal,Negative,85,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,37.10,67,125,69,,96,,,,,FALSE,FALSE,,,,,,,,,,,,,,,"The cardiac silhouette is normal.
+There is no radiographic evidence of pulmonary edema.
+There is no radiographic evidence of pneumonia.
+There is no pneumothorax visible. A presumed 8mm pulmonary nodule is seen on the lateral view.
+",No acute abnormality. Presumed pulmonary nodule,https://braid.health/viewer/study/b42b193d2a9b39745def488ba3c15614d496a7956b02ac9f81091ca0485ada2f?key=BIo8HvL8W_dy__4IdBFd1pxP3xoibTLfRwG4ErLo9Okog3RzXmcB0VJL-7onLz9PlL4OpSzut_hzZZGPnC6LX0,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasal,Negative,40,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,37.30,91,114,72,16,,,,28,TRUE,FALSE,FALSE,FALSE,TRUE,Mild,FALSE,TRUE,Mild,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,"The cardiac silhouette is normal.
+There is no radiographic evidence of pulmonary edema or pneumonia. Multilevel degenerative disc disease changes of the spine. There is no pneumothorax visible.",No acute abnormality. Please note that chest radiographs exhibit low sensitivity to groundglass opacities as can be seen in early viral pneumonia.,https://braid.health/viewer/study/c5788d6b43207ce100de2e206c88f8c0498fcda57abc6023c126372563cc1b45?key=BIo8HvL8W_dy__4IdBFd1pxP3xoibTLfRwG4ErLo9Okog3RzXmcB0VJL-7onLz9PlL4OpSzut_hzZZGPnC6LX0,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasal,Negative,21,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,37.25,87,119,78,16,98,,,,FALSE,FALSE,FALSE,FALSE,,,,,,,,,,,,,,"The cardiac silhouette is normal.
+There is no radiographic evidence of pulmonary edema.
+There is no radiographic evidence of pneumonia.
+There is no pneumothorax visible.
+",No significant abnormality.,https://braid.health/viewer/study/cc14babc69408ef408627a68250ee1c41961205815325df6c11fef5d00c26596?key=BIo8HvL8W_dy__4IdBFd1pxP3xoibTLfRwG4ErLo9Okog3RzXmcB0VJL-7onLz9PlL4OpSzut_hzZZGPnC6LX0,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasal,Negative,45,,,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,37.30,96,160,85,17,97,,,,TRUE,FALSE,FALSE,FALSE,,,,,,,,,,,,,,"The cardiac silhouette is normal.
+There is no radiographic evidence of pulmonary edema.
+There is no radiographic evidence of pneumonia.
+There is no pneumothorax visible.
+",No significant abnormality.,https://braid.health/viewer/study/48122fd4f7cb69b13848e533578937322c74e5fdf1c588d6f4ec343b642dc677?key=BIo8HvL8W_dy__4IdBFd1pxP3xoibTLfRwG4ErLo9Okog3RzXmcB0VJL-7onLz9PlL4OpSzut_hzZZGPnC6LX0,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasal,Negative,26,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,37.00,70,137,81,18,98,,,21,TRUE,FALSE,FALSE,FALSE,FALSE,,TRUE,TRUE,Mild,,,TRUE,,,,,,"The cardiac silhouette is normal.
+Allowing for lower lung volumes, there is no radiographic evidence of pulmonary edema or pneumonia. There is no pneumothorax or effusion visible. Jewelry is noted about the left areola/nipple.
+","No definite supicious pulmonary opacities, allowing for low lung volumes. Please note that chest radiographs may not exhibit sensitivity for subtle opacities as can be seen with early viral pneumonia.",https://braid.health/viewer/study/5fb6a93912a10c25902eae9a760223dcc2829b539bcb54137b1cbdfd15dac4b0?key=BIo8HvL8W_dy__4IdBFd1pxP3xoibTLfRwG4ErLo9Okog3RzXmcB0VJL-7onLz9PlL4OpSzut_hzZZGPnC6LX0,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasal,Negative,57,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,37.20,75,151,97,16,97,,,7,TRUE,FALSE,FALSE,FALSE,TRUE,Moderate,FALSE,TRUE,Moderate,,TRUE,,,,,,,"The cardiac silhouette is normal.
+There is no radiographic evidence of pulmonary edema.
+There is no radiographic evidence of pneumonia.
+There is no pneumothorax visible.
+",No significant abnormality.,https://braid.health/viewer/study/1c09ece9bf4c874637f3c49890795f7b1e87c813ebeac1e25f3d86fd49ea63ba?key=BIo8HvL8W_dy__4IdBFd1pxP3xoibTLfRwG4ErLo9Okog3RzXmcB0VJL-7onLz9PlL4OpSzut_hzZZGPnC6LX0,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasal,Negative,58,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,36.85,92,146,89,16,96,,,,TRUE,FALSE,FALSE,FALSE,,,,,,,,,,,,,,"The cardiac silhouette is normal.
+There is no radiographic evidence of pulmonary edema.
+Trace opacity in the lateral right lung base noted.
+There is no pneumothorax visible.
+","Minimal right lung base opacity, which is nonspecific but could represent subtle infiltrate, as can be seen in early viral pneumonia.",https://braid.health/viewer/study/89fefcbb7189cc1b198d040f4c9f09e6d38e5f95ffb13753d63faf9af61eefef?key=BIo8HvL8W_dy__4IdBFd1pxP3xoibTLfRwG4ErLo9Okog3RzXmcB0VJL-7onLz9PlL4OpSzut_hzZZGPnC6LX0,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasal,Negative,60,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,37.15,72,142,84,18,96,,,5,FALSE,FALSE,TRUE,TRUE,TRUE,Moderate,FALSE,FALSE,,TRUE,TRUE,TRUE,TRUE,,TRUE,TRUE,,"The cardiac silhouette is normal.
+Low lung volumes. Within those confines, there is no radiographic evidence of pulmonary edema or pneumonia. Diffuse reticulonodular versus possible mild fibrotic changes, with underlying upper lobe predominant minimal emphysema evident. Mild bibasilar atelectasis.
+There is no pneumothorax visible. Hardware within the left humeral head appears intact.
+",No suspicious pulmonary opacities. Please note that chest radiographs may not exhibit sensitivity for subtle groundglass lesions as can be seen in early viral pneumonia.,https://braid.health/viewer/study/b3504c2e6bdf5085619812d950abfa5d0c33520c38777f709f22a4a63ad4fdf1?key=BIo8HvL8W_dy__4IdBFd1pxP3xoibTLfRwG4ErLo9Okog3RzXmcB0VJL-7onLz9PlL4OpSzut_hzZZGPnC6LX0,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasal,Negative,67,FALSE,TRUE,FALSE,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,36.90,62,165,94,17,95,Negative,,1,TRUE,FALSE,FALSE,FALSE,TRUE,,FALSE,TRUE,Moderate,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,"The cardiac silhouette is normal.
+There is no radiographic evidence of pulmonary edema or pneumonia. Emphysematous changes and hyperinflation. There is no pneumothorax visible. Postsurgical changes along the left chest wall.
+",No acute radiographic abnormality.,https://braid.health/viewer/study/93f557e594eb00d43871fabb8f1cb5371e44d63b7be6a6e2c8d3283d22ea028f?key=BIo8HvL8W_dy__4IdBFd1pxP3xoibTLfRwG4ErLo9Okog3RzXmcB0VJL-7onLz9PlL4OpSzut_hzZZGPnC6LX0,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasal,Negative,40,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,36.90,68,129,82,,97,Negative,,,TRUE,FALSE,FALSE,FALSE,,,,,,,,,,,,,,"The cardiac silhouette is normal.
+There is no radiographic evidence of pulmonary edema or pneumonia.
+There is no pneumothorax visible.
+",No acute radiographic abnormality.,https://braid.health/viewer/study/542cafe8288bd13b80f61617c312c6ca8a4907964609373224b7e56ddaab0593?key=BIo8HvL8W_dy__4IdBFd1pxP3xoibTLfRwG4ErLo9Okog3RzXmcB0VJL-7onLz9PlL4OpSzut_hzZZGPnC6LX0,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasal,Negative,35,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,37.10,106,132,56,16,100,,,,TRUE,FALSE,FALSE,FALSE,,,,,,,,,,,,,,"The cardiac silhouette is normal.
+There is no radiographic evidence of pulmonary edema or pneumonia.
+There is no pneumothorax visible. Prominent linear atelectatic markings emanate from the bilateral hila.
+","No suspicious pulmonary opacities. Please note that chest radiographs may exhibit limited sensitivity for subtle groundglass opacities, as can be seen in early viral pneumonia.",https://braid.health/viewer/study/7868665c641aff87b9bdc724d79d91f629652bc34c02c76d961a92c79d22ab41?key=BIo8HvL8W_dy__4IdBFd1pxP3xoibTLfRwG4ErLo9Okog3RzXmcB0VJL-7onLz9PlL4OpSzut_hzZZGPnC6LX0,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasal,Negative,31,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,36.80,114,133,102,,96,,,,TRUE,FALSE,FALSE,FALSE,FALSE,,,FALSE,,,,,,,,,,"The cardiac silhouette is normal.
+There is no radiographic evidence of pulmonary edema. Trace left lung opacities are noted, with blurring of the inferior left heart border. There is no pneumothorax visible.
+","Trace borderline left lung opacities, for which the differental includes early viral pneumonia, with other etiologies not excluded.",https://braid.health/viewer/study/8da0ecf9cecd4618a3105bbfa73a2a1f6fd607bf92fb748e7a6e6b2a245a8d83?key=BIo8HvL8W_dy__4IdBFd1pxP3xoibTLfRwG4ErLo9Okog3RzXmcB0VJL-7onLz9PlL4OpSzut_hzZZGPnC6LX0,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasal,Negative,18,FALSE,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,37.30,104,144,82,12,98,,,2,TRUE,FALSE,FALSE,FALSE,TRUE,,TRUE,TRUE,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,"The cardiac silhouette is normal.
+There is no radiographic evidence of pulmonary edema or lobar pneumonia. Relative right hilar prominence favored to be related to rotation and projectional factors. There is no pneumothorax visible.
+",No definite acute radiographic abnormality.,https://braid.health/viewer/study/73647a9d14711edc1cb58d6cb696cb00063d3138ace8b4f06e01f1ad6cd6a8c7?key=BIo8HvL8W_dy__4IdBFd1pxP3xoibTLfRwG4ErLo9Okog3RzXmcB0VJL-7onLz9PlL4OpSzut_hzZZGPnC6LX0,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasal,Negative,37,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,36.90,59,117,77,18,98,,,5,TRUE,FALSE,FALSE,FALSE,TRUE,Mild,,TRUE,Mild,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,The lungs are clear. The heart size is normal.,No suspicious pulmonary opacities. Please note that chest radiographs may not exhibit sensitivity to subtle groundglass lesions as can be seen in early viral pneumonia.,https://braid.health/viewer/study/312e44eece86a910522a69410f5875b48a0e22fa74c1efab0afec5700219bf0b?key=BIo8HvL8W_dy__4IdBFd1pxP3xoibTLfRwG4ErLo9Okog3RzXmcB0VJL-7onLz9PlL4OpSzut_hzZZGPnC6LX0,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasopharyngeal,Negative,51,,TRUE,FALSE,FALSE,FALSE,TRUE,TRUE,FALSE,FALSE,37.00,123,115,84,16,99,Negative,,1,TRUE,FALSE,FALSE,FALSE,FALSE,,TRUE,FALSE,,,TRUE,TRUE,TRUE,,TRUE,TRUE,,"The cardiac silhouette is normal.
+There is no radiographic evidence of pulmonary edema or pneumonia.
+There is no pneumothorax visible.
+",No suspicious opacities. Please note that chest radiographs may not exhibit sensitivity for subtle groundglass lesions as can be seen in early viral pneumonia.,https://braid.health/viewer/study/0ff04b07867d02ffb925c05eab410db0f2abada2bc04d23bf3481865367ae05c?key=BIo8HvL8W_dy__4IdBFd1pxP3xoibTLfRwG4ErLo9Okog3RzXmcB0VJL-7onLz9PlL4OpSzut_hzZZGPnC6LX0,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasal,Negative,30,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,36.85,82,112,73,,96,Negative,,3,TRUE,FALSE,FALSE,FALSE,TRUE,,TRUE,TRUE,Mild,TRUE,TRUE,TRUE,,,,,,"The cardiac silhouette is normal.
+There is no radiographic evidence of pulmonary edema or pneumonia.
+There is no pneumothorax visible.
+","No suspicious pulmonary opacities. Please note that chest radiographs may not exhibit sensitivity for groundglass lesions, as can be seen with early viral pneumonia.",https://braid.health/viewer/study/eb14c6d80c99d4f4795ef6e1ef78d3249af3becb9a53ef52e6967e0be03aff1f?key=BIo8HvL8W_dy__4IdBFd1pxP3xoibTLfRwG4ErLo9Okog3RzXmcB0VJL-7onLz9PlL4OpSzut_hzZZGPnC6LX0,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasal,Negative,27,TRUE,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,36.75,66,119,77,14,100,,,,TRUE,FALSE,FALSE,FALSE,FALSE,,,FALSE,,,,,,,TRUE,,,,,,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasopharyngeal,Negative,44,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,36.65,,,,,,,,21,,FALSE,,,TRUE,Moderate,FALSE,TRUE,Severe,,,TRUE,,TRUE,,,,,,,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasal,Negative,30,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,36.80,97,138,82,17,99,,,14,TRUE,FALSE,FALSE,FALSE,TRUE,Mild,TRUE,FALSE,,TRUE,TRUE,TRUE,,,,TRUE,,,,,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasopharyngeal,Negative,21,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,36.70,,,,,,,,,,FALSE,,,,,,,,,,,,,,,,,,,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasopharyngeal,Negative,23,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,37.00,85,142,89,16,98,,,,,FALSE,,,,,,,,,,,,,,,,,,,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasal,Negative,26,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,36.95,75,116,78,,97,,Negative,,TRUE,FALSE,FALSE,FALSE,,,,,,,,,,,,,,,,,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasopharyngeal,Negative,51,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,36.65,,,,,,,,,,FALSE,,,,,,,,,,,,,,,,,,,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasal,Negative,23,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,36.75,75,96,61,17,98,,,,TRUE,FALSE,,,FALSE,,,FALSE,,FALSE,,FALSE,,,,,TRUE,,,,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasopharyngeal,Negative,45,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,36.65,,,,,,,,,,FALSE,,,,,,,,,,,,,,,,,,,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasal,Negative,77,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,37.10,88,153,76,18,100,,,2,TRUE,FALSE,FALSE,FALSE,FALSE,,FALSE,TRUE,Mild,,TRUE,TRUE,,,,,TRUE,,,,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasal,Negative,52,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,36.75,,,,,,,,,,,,,FALSE,,,FALSE,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,,,,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasal,Negative,32,TRUE,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,36.85,84,122,84,18,98,,,,TRUE,FALSE,FALSE,FALSE,TRUE,Mild,FALSE,FALSE,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,,,,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasopharyngeal,Negative,48,,,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,36.65,,,,,,,,,,FALSE,,,,,,,,,,,,,,,,,,,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasopharyngeal,Negative,48,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,36.50,,,,,,,,,,FALSE,,,,,,,,,,,,,,,,,,,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasal,Negative,49,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,36.90,74,132,80,16,98,,,,,FALSE,,,FALSE,,FALSE,FALSE,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,,,,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasopharyngeal,Negative,61,,,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,36.95,91,128,71,19,96,,,,TRUE,FALSE,FALSE,FALSE,,,,,,,,,,,,,,,,,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasal,Negative,28,,,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,36.50,79,108,67,16,99,,,,TRUE,FALSE,FALSE,FALSE,,,,,,,,,,,,,,,,,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasal,Negative,38,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,36.70,85,145,89,17,96,,,,,FALSE,,,FALSE,,FALSE,FALSE,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,,,,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasal,Negative,53,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,36.95,85,160,88,17,97,,Negative,,TRUE,FALSE,,FALSE,FALSE,,,FALSE,,,,,,,,,,,,,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasopharyngeal,Negative,62,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,36.60,,,,,,,,,,FALSE,,,,,,,,,,,,,,,,,,,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasal,Negative,29,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,37.30,86,120,86,14,99,,,2,TRUE,FALSE,FALSE,FALSE,TRUE,Moderate,FALSE,FALSE,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,,,,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasopharyngeal,Negative,26,FALSE,,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,36.85,78,118,74,16,99,,,3,TRUE,FALSE,FALSE,FALSE,FALSE,,,FALSE,,,TRUE,,,,,TRUE,,,,,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasal,Negative,64,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,36.25,87,165,92,18,99,,,,TRUE,FALSE,FALSE,FALSE,,,,,,,,,,,,,,,,,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasal,Negative,33,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,36.50,91,97,64,16,98,,,4,TRUE,FALSE,,,TRUE,Mild,FALSE,TRUE,Mild,TRUE,TRUE,,,,,TRUE,TRUE,,,,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasopharyngeal,Negative,70,,,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,36.65,,,,,,,,,,FALSE,,,,,,,,,,,,,,,,,,,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasal,Negative,43,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,36.95,64,104,74,12,100,,,5,TRUE,,,,TRUE,Moderate,FALSE,FALSE,,TRUE,,TRUE,,,,,,,,,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasal,Negative,66,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,37.00,71,109,70,14,97,,,5,TRUE,FALSE,FALSE,FALSE,FALSE,,,TRUE,,TRUE,TRUE,TRUE,,,,,,,,,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasal,Negative,58,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,37.45,81,123,80,20,98,,,1,TRUE,FALSE,FALSE,FALSE,TRUE,Moderate,,TRUE,Moderate,,TRUE,,,,,,,,,,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasal,Negative,32,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,,97,144,88,16,96,,,,,FALSE,,,FALSE,,FALSE,FALSE,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,,,,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasal,Negative,35,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,37.35,101,159,90,17,97,,,,,,,,FALSE,,,FALSE,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,,,,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasopharyngeal,Negative,26,,,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,36.65,,,,,,,,,,FALSE,,,,,,,,,,,,,,,,,,,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasopharyngeal,Negative,27,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,36.95,66,118,81,16,100,,,,TRUE,FALSE,,,FALSE,,FALSE,FALSE,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,,,,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasal,Negative,30,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,37.25,90,125,76,16,98,,,2,TRUE,FALSE,FALSE,FALSE,TRUE,Mild,FALSE,FALSE,,,TRUE,TRUE,,,,TRUE,,,,,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasopharyngeal,Negative,55,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,36.65,,,,,,,,,,FALSE,,,,,,,,,,,,,,,,,,,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasal,Negative,52,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,36.60,91,133,94,14,95,,,,,,,,,,,,,,,,,,,,,,,,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasal,Negative,65,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,36.80,72,126,77,,100,,,,TRUE,,,,FALSE,,,FALSE,,,TRUE,TRUE,,,,TRUE,,,,,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasal,Negative,31,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,,125,,,,,,,,TRUE,FALSE,FALSE,FALSE,,,,,,,,,,,,,,,,,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasal,Negative,22,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,36.80,65,144,83,12,100,,,1,TRUE,,,,FALSE,,TRUE,FALSE,,TRUE,TRUE,TRUE,,,,,,,,,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasal,Negative,28,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,36.70,84,122,80,14,97,,,5,TRUE,FALSE,,,TRUE,Moderate,FALSE,TRUE,Moderate,TRUE,TRUE,TRUE,,,,TRUE,TRUE,,,,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasopharyngeal,Negative,43,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,37.10,103,149,90,17,96,,,5,,,,,TRUE,Moderate,FALSE,TRUE,Mild,,TRUE,,TRUE,,TRUE,,,,,,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasal,Negative,37,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,37.00,82,150,90,16,98,,,,,,,,FALSE,,FALSE,FALSE,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,,,,FALSE
+2020-04-21,CA,SARS COV2 NAAT,Nasopharyngeal,Negative,38,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,,,117,82,,,,,,TRUE,FALSE,,,,,,,,,,,,,,,,,,,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasal,Negative,32,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,37.10,76,113,76,16,100,,,,,FALSE,TRUE,TRUE,,,,,,,,,,,,,,,,,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasopharyngeal,Negative,35,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,37.20,100,114,82,17,98,,,14,TRUE,FALSE,FALSE,FALSE,TRUE,Mild,FALSE,FALSE,,TRUE,TRUE,,,,,TRUE,,,,,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasal,Negative,35,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,36.75,78,111,72,17,98,,,4,TRUE,FALSE,FALSE,FALSE,TRUE,Mild,,FALSE,,TRUE,TRUE,TRUE,FALSE,FALSE,TRUE,FALSE,TRUE,,,,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasal,Negative,46,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,36.70,74,131,85,17,98,,,,TRUE,FALSE,FALSE,FALSE,FALSE,,FALSE,FALSE,,,,,,,,,TRUE,,,,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasopharyngeal,Negative,25,,,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,36.65,,,,,,,,,,FALSE,,,,,,,,,,,,,,,,,,,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasopharyngeal,Negative,48,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,37.00,89,137,97,16,99,,,,TRUE,FALSE,FALSE,FALSE,,,,,,,,,,,,,,,,,FALSE
+2020-04-21,CA,SARS COV2 NAAT,Nasopharyngeal,Negative,22,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,36.60,70,130,64,16,97,,,14,TRUE,FALSE,FALSE,FALSE,TRUE,Severe,FALSE,TRUE,Moderate,,TRUE,TRUE,,,TRUE,,,,,,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasal,Negative,30,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,36.90,82,92,56,17,97,,,,TRUE,FALSE,,FALSE,FALSE,,FALSE,FALSE,,,TRUE,,,,TRUE,,TRUE,,,,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasopharyngeal,Negative,49,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,36.60,,,,,,,,,,FALSE,,,,,,,,,,,,,,,,,,,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasopharyngeal,Negative,47,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,37.15,81,122,73,18,97,,Negative,,TRUE,FALSE,FALSE,FALSE,,,,,,,,,,,,,,,,,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasopharyngeal,Negative,50,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,36.65,,,,,,,,,,FALSE,,,FALSE,,FALSE,FALSE,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,,,,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasopharyngeal,Negative,72,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,36.50,,,,,,,,,,FALSE,,,,,,,,,,,,,,,,,,,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasal,Positive,15,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,37.95,140,124,81,,100,,,,TRUE,FALSE,FALSE,FALSE,FALSE,,TRUE,FALSE,,,TRUE,,,,,,,,,,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasal,Negative,19,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,37.40,99,127,85,18,97,Negative,,,TRUE,FALSE,FALSE,TRUE,,,,,,,,,,,,,,,,,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasopharyngeal,Negative,26,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,36.65,,,,,,,,,,FALSE,,,,,,,,,,,,,,,,,,,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasal,Negative,57,,,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,36.95,86,123,85,17,98,Negative,Negative,,TRUE,FALSE,FALSE,FALSE,FALSE,,,FALSE,,FALSE,TRUE,TRUE,FALSE,TRUE,FALSE,FALSE,TRUE,,,,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasal,Negative,37,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,37.10,71,127,91,19,100,,,10,,FALSE,,,FALSE,,,FALSE,,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,FALSE,,,,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasopharyngeal,Negative,48,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,36.65,,,,,,,,,,FALSE,,,,,,,,,,,,,,,,,,,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasal,Negative,23,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,36.75,91,119,80,16,98,,,,TRUE,FALSE,FALSE,FALSE,,,,,,,,,,,,,,,,,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasal,Negative,38,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,36.75,94,138,86,,97,,,4,TRUE,FALSE,FALSE,FALSE,TRUE,Moderate,FALSE,TRUE,Moderate,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,,,,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasal,Negative,22,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,36.80,65,144,83,12,100,,,1,TRUE,,,,FALSE,,TRUE,FALSE,,TRUE,TRUE,TRUE,,,,,,,,,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasopharyngeal,Negative,30,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,36.60,,,,,,,,,,FALSE,,,,,,,,,,,,,,,,,,,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasal,Negative,41,,,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,36.85,75,144,94,16,97,Negative,,,TRUE,FALSE,,,,,,,,,,,,,,,,,,,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasal,Negative,47,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,37.00,82,140,82,16,98,,,,TRUE,FALSE,FALSE,FALSE,,,,,,,,,,,,,,,,,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasal,Positive,46,,,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,36.80,76,120,80,,99,,,1,TRUE,FALSE,FALSE,FALSE,FALSE,,,FALSE,,,,,,,,,,,,,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasal,Negative,42,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,36.85,77,122,79,16,98,,,2,TRUE,FALSE,FALSE,FALSE,TRUE,Mild,FALSE,FALSE,,TRUE,,TRUE,,,,,,,,,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasal,Negative,73,,,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,37.00,111,150,106,22,96,,,,FALSE,FALSE,,,,,,,,,,,,,,,,,,,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasopharyngeal,Negative,32,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,37.25,120,107,78,16,96,,Negative,,TRUE,FALSE,FALSE,FALSE,,,,,,,,,,,,,,,,,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasal,Negative,49,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,36.85,80,115,83,14,,,,7,TRUE,,,,TRUE,Moderate,,FALSE,,,TRUE,TRUE,TRUE,,TRUE,,,,,,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasal,Negative,37,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,37.25,79,101,69,12,98,,,10,TRUE,,,,TRUE,Moderate,TRUE,FALSE,,TRUE,,,,,,,TRUE,,,,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasal,Negative,42,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,36.90,87,130,85,17,96,,,21,TRUE,FALSE,FALSE,FALSE,TRUE,Mild,FALSE,FALSE,Mild,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,,,,FALSE
+2020-04-21,CA,SARS CoV w/CoV 2 RNA,Nasopharyngeal,Negative,41,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,36.90,71,143,91,16,98,,,21,,FALSE,,,TRUE,Moderate,FALSE,TRUE,Mild,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,,,,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasal,Negative,30,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,37.00,97,125,71,18,99,,,,TRUE,FALSE,FALSE,FALSE,,,,,,,,,,,,,,,,,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasopharyngeal,Negative,52,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,,106,126,66,14,,,,3,TRUE,FALSE,FALSE,FALSE,FALSE,,TRUE,FALSE,,TRUE,,TRUE,,,,,,,,,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasal,Negative,81,,,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,36.75,100,112,61,16,97,,,,FALSE,FALSE,FALSE,FALSE,,,,,,,,,,,,,,,,,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasal,Negative,48,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,36.50,80,141,81,16,99,,,,TRUE,FALSE,FALSE,FALSE,FALSE,,,FALSE,,,,,,,,,TRUE,,,,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasopharyngeal,Negative,44,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,36.65,,,,,,,,,,FALSE,,,,,,,,,,,,,,,,,,,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasopharyngeal,Negative,46,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,36.80,,,,,,,,,,FALSE,,,,,,,,,,,,,,,,,,,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasopharyngeal,Negative,30,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,36.75,80,128,84,20,100,,,5,TRUE,,,,TRUE,Mild,FALSE,TRUE,Moderate,TRUE,TRUE,TRUE,,,TRUE,,,,,,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasopharyngeal,Negative,45,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,36.50,,,,,,,,,,FALSE,,,,,,,,,,,,,,,,,,,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasal,Negative,49,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,36.90,69,129,86,14,97,,,,,FALSE,,,,,,,,,,,,,,,,,,,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasal,Negative,78,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,37.00,66,114,72,14,97,,,28,TRUE,FALSE,FALSE,FALSE,TRUE,Moderate,,FALSE,,,TRUE,,,,TRUE,,,,,,FALSE
+2020-04-21,CA,SARS COV2 NAAT,Nasopharyngeal,Negative,40,,,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,36.30,70,129,80,16,99,,,,TRUE,FALSE,,,,,,,,,,,,,,,,,,,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasal,Negative,23,FALSE,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,37.30,92,109,72,17,98,,,,TRUE,FALSE,,,FALSE,,FALSE,FALSE,,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,,,,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasal,Negative,73,TRUE,FALSE,FALSE,TRUE,TRUE,TRUE,FALSE,FALSE,FALSE,36.90,72,190,76,,98,,,,,FALSE,,,FALSE,,,FALSE,,TRUE,TRUE,,,,,TRUE,TRUE,,,,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasal,Negative,63,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,36.65,77,149,74,17,96,,,,TRUE,FALSE,,,,,,,,,,,,,,,,,,,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasal,Negative,31,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,37.10,83,127,77,16,99,,,,TRUE,FALSE,FALSE,FALSE,FALSE,,,FALSE,,,,,,,,,,,,,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasopharyngeal,Negative,50,,,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,36.65,,,,,,,,,,FALSE,,,,,,,,,,,,,,,,,,,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasopharyngeal,Negative,43,,,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,36.65,,,,,,,,,,FALSE,,,,,,,,,,,,,,,,,,,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasal,Negative,39,,,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,37.20,118,102,69,12,97,,,,TRUE,FALSE,FALSE,FALSE,,,,,,,,,,,,,,,,,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasal,Negative,85,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,36.60,61,157,66,18,93,,,,TRUE,FALSE,,,FALSE,,,FALSE,,TRUE,,TRUE,,,,,,,,,FALSE
+2020-04-21,CA,SARS COV2 NAAT,Nasopharyngeal,Negative,29,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,36.90,63,112,68,16,100,,,2,TRUE,FALSE,,,TRUE,Mild,FALSE,TRUE,Mild,,TRUE,,,,,,,,,,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasopharyngeal,Negative,53,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,36.65,,,,,,,,,,FALSE,,,,,,,,,,,,,,,,,,,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasopharyngeal,Negative,64,,,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,36.95,91,128,71,19,96,,,,TRUE,FALSE,FALSE,FALSE,,,,,,,,,,,,,,,,,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasal,Negative,50,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,36.75,71,175,91,16,98,,,,TRUE,FALSE,FALSE,FALSE,FALSE,,,FALSE,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,,,,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasal,Negative,24,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,37.25,98,96,61,12,97,,,,,FALSE,FALSE,FALSE,,,,,,,,,,,,,,,,,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasal,Negative,33,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,37.10,75,116,80,17,96,,,1,,,,,FALSE,,FALSE,FALSE,Mild,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,,,,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasal,Negative,23,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,37.45,78,135,80,17,97,,,,,,,,FALSE,,FALSE,FALSE,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,,,,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasal,Negative,25,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,37.15,84,142,86,18,97,,,1,TRUE,FALSE,FALSE,FALSE,TRUE,Mild,,FALSE,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,,,,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasal,Negative,60,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,37.75,92,104,69,12,97,,,2,TRUE,FALSE,FALSE,FALSE,FALSE,,,FALSE,,,,TRUE,,,,,,,,,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasal,Negative,28,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,36.60,94,105,69,14,99,,,,TRUE,FALSE,FALSE,TRUE,,,,,,,,,,,,,,,,,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasopharyngeal,Negative,19,,,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE,37.20,91,116,70,,98,,,,TRUE,,,,FALSE,,,FALSE,,,,,,,,,,,,,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasopharyngeal,Negative,80,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,36.65,,,,,,,,7,,FALSE,,,TRUE,Mild,,TRUE,Mild,,,TRUE,,,,,,,,,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasal,Negative,37,,,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,36.65,80,132,90,14,97,,,30,TRUE,FALSE,FALSE,FALSE,TRUE,,,FALSE,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,,,,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasopharyngeal,Negative,53,,,TRUE,FALSE,TRUE,TRUE,FALSE,FALSE,FALSE,36.65,,,,,,,,,,FALSE,,,,,,,,,,,,,,,,,,,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasopharyngeal,Negative,52,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,36.65,,,,,,,,,,FALSE,,,,,,,,,,,,,,,,,,,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasal,Negative,24,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,36.65,85,120,81,,97,,,,TRUE,FALSE,FALSE,FALSE,FALSE,,,FALSE,,,,,,,,,,,,,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasal,Negative,50,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,36.80,70,133,67,16,98,,,,,FALSE,,,FALSE,,FALSE,FALSE,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,,,,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasal,Negative,42,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,36.80,67,104,70,18,100,,,,TRUE,,,,FALSE,,,FALSE,,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,,,,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasal,Negative,45,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,37.20,80,146,72,16,98,,,,,FALSE,,,FALSE,,FALSE,FALSE,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,,,,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasal,Negative,47,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,36.90,68,106,69,16,98,,,1,TRUE,FALSE,FALSE,FALSE,TRUE,Mild,,TRUE,,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,,,,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasal,Negative,47,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,37.20,100,135,87,18,100,,,7,TRUE,,,,TRUE,,,TRUE,,TRUE,,TRUE,,,,TRUE,,,,,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasal,Negative,55,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,36.95,109,159,98,16,97,,,,TRUE,FALSE,FALSE,FALSE,FALSE,,,FALSE,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,,,,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasal,Negative,53,,,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,36.75,88,93,61,16,98,,,,TRUE,FALSE,FALSE,FALSE,,,,,,,,,,,,,,,,,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasal,Negative,13,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,36.95,92,97,69,16,98,,,,FALSE,FALSE,TRUE,TRUE,FALSE,,FALSE,FALSE,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,,,,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasal,Negative,30,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,36.90,75,114,74,16,99,,,,TRUE,FALSE,FALSE,FALSE,FALSE,,,FALSE,,TRUE,TRUE,TRUE,,,,,TRUE,,,,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasopharyngeal,Negative,63,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,36.65,,,,,,,,,,FALSE,,,,,,,,,,,,,,,,,,,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasal,Negative,30,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,36.75,64,109,69,14,98,,,4,TRUE,FALSE,FALSE,FALSE,TRUE,Mild,FALSE,TRUE,Mild,,,TRUE,TRUE,,TRUE,,,,,,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasal,Negative,44,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,,70,139,87,18,98,,,,,,,,FALSE,,,FALSE,,,,TRUE,TRUE,,,,,,,,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasal,Positive,29,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,37.50,104,148,95,16,96,,,,,FALSE,,,FALSE,Mild,FALSE,FALSE,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,,,,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasal,Negative,31,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,36.95,72,120,72,17,97,,,,,FALSE,,,FALSE,,,FALSE,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,,,,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasal,Positive,30,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,37.80,72,118,66,16,98,,,,TRUE,FALSE,FALSE,FALSE,,,,,,,,,,,,,,,,,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasopharyngeal,Negative,33,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,36.85,77,106,74,14,100,,,3,TRUE,,,,TRUE,Mild,,FALSE,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,,,,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasal,Negative,61,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,36.80,81,124,87,16,97,,,28,TRUE,,,,FALSE,,FALSE,TRUE,Mild,,TRUE,TRUE,,,,TRUE,TRUE,,,,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasal,Negative,23,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,37.10,88,123,75,17,99,,,1,TRUE,FALSE,FALSE,FALSE,FALSE,,FALSE,TRUE,Mild,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,,,,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasal,Positive,11,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,37.10,102,125,78,20,100,,,,TRUE,FALSE,FALSE,FALSE,FALSE,,,FALSE,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,,,,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasopharyngeal,Negative,64,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,36.50,,,,,,,,,,FALSE,,,,,,,,,,,,,,,,,,,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasopharyngeal,Positive,42,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,37.30,84,124,70,12,98,,,,,FALSE,,,,,,,,,,,,,,,,,,,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasal,Negative,42,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,36.80,67,104,70,18,100,,,,TRUE,,,,FALSE,,,FALSE,,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,,,,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasal,Negative,34,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,36.80,94,100,64,,98,,,,,FALSE,,,FALSE,,,TRUE,,,,,,,,,,,,,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasal,Negative,38,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,37.00,77,126,87,16,100,Negative,,5,TRUE,FALSE,FALSE,FALSE,TRUE,,,FALSE,,TRUE,TRUE,TRUE,,,,TRUE,,,,,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasopharyngeal,Negative,25,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,36.90,82,92,56,17,97,,,,TRUE,FALSE,,FALSE,FALSE,,FALSE,FALSE,,,TRUE,,,,TRUE,,TRUE,,,,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasal,Negative,59,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,,80,131,70,16,97,,,,TRUE,FALSE,FALSE,FALSE,TRUE,Mild,,FALSE,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,,,,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasal,Negative,48,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,36.80,59,142,87,16,96,,,,TRUE,FALSE,FALSE,FALSE,TRUE,Mild,,FALSE,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,,,,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasal,Negative,28,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,37.10,80,118,69,12,100,,,14,TRUE,FALSE,FALSE,FALSE,TRUE,Moderate,,FALSE,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,,,,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasopharyngeal,Negative,62,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,36.50,,,,,,,,,,FALSE,,,,,,,,,,,,,,,,,,,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasopharyngeal,Negative,37,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,36.50,,,,,,,,,,FALSE,,,,,,,,,,,,,,,,,,,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasal,Negative,30,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,37.00,77,116,78,15,98,,,,TRUE,,,FALSE,FALSE,,,FALSE,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,,,,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasal,Negative,53,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,37.00,70,112,76,14,100,,,,TRUE,,,,FALSE,,,FALSE,,,,,,,,,,,,,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasal,Negative,41,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,36.95,98,137,82,16,98,,,,,FALSE,,,FALSE,,FALSE,FALSE,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,,,,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasal,Negative,31,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,36.85,77,125,88,16,100,,,3,TRUE,FALSE,FALSE,FALSE,FALSE,,,TRUE,Mild,,TRUE,,,,TRUE,TRUE,,,,,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasopharyngeal,Negative,42,,,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,36.65,,,,,,,,,,FALSE,,,,,,,,,,,,,,,,,,,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasal,Negative,43,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,36.70,74,160,108,12,99,,,,TRUE,FALSE,FALSE,FALSE,FALSE,,FALSE,FALSE,,,,,,,,,,,,,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasal,Negative,22,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,36.95,69,115,75,15,99,,,2,TRUE,FALSE,FALSE,FALSE,TRUE,Mild,,FALSE,,,,,,,,,,,,,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasal,Negative,48,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,37.25,92,133,76,16,98,,,,TRUE,FALSE,FALSE,FALSE,FALSE,,FALSE,FALSE,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,,,,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasal,Negative,57,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,36.90,90,157,108,16,98,,,,TRUE,FALSE,FALSE,FALSE,FALSE,,FALSE,FALSE,,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,,,,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasal,Negative,40,FALSE,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,36.75,63,110,67,16,97,,,,,FALSE,,,FALSE,,,FALSE,,,,,,,,,,,,,FALSE
+2020-04-21,CA,SARS COV2 NAAT,Nasopharyngeal,Negative,33,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,36.95,110,110,48,18,100,,,7,TRUE,FALSE,,,TRUE,Moderate,,TRUE,Mild,,TRUE,TRUE,,,,TRUE,TRUE,,,,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasal,Negative,52,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,37.20,76,130,80,14,97,,,5,TRUE,FALSE,FALSE,FALSE,TRUE,Mild,TRUE,FALSE,,,TRUE,,,,TRUE,TRUE,,,,,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasal,Negative,31,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,37.15,98,102,69,18,98,,,,TRUE,FALSE,FALSE,FALSE,,,,,,,,,,,,,,,,,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasal,Positive,29,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,36.65,98,135,78,16,99,,,,TRUE,FALSE,,,FALSE,,,FALSE,,,,TRUE,,,,,,,,,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasopharyngeal,Negative,48,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,36.50,,,,,,,,,,FALSE,,,,,,,,,,,,,,,,,,,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasal,Negative,24,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,36.95,82,109,77,17,98,Negative,,,TRUE,FALSE,FALSE,FALSE,FALSE,,TRUE,FALSE,,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,,,,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasal,Negative,60,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,36.90,92,135,83,17,96,Negative,,5,TRUE,FALSE,FALSE,FALSE,FALSE,,TRUE,FALSE,,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,TRUE,FALSE,,,,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasal,Positive,23,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,36.90,81,127,88,16,98,,,7,TRUE,FALSE,FALSE,FALSE,FALSE,,TRUE,TRUE,Mild,,TRUE,TRUE,,,,,,,,,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasal,Negative,51,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,36.95,90,152,85,16,99,,,,TRUE,FALSE,FALSE,FALSE,FALSE,,FALSE,FALSE,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,,,,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasal,Negative,54,,,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,36.75,110,125,93,12,96,,,,TRUE,,,,,,,,,,,,,,,,,,,,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasopharyngeal,Negative,36,,,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,37.20,107,111,67,19,99,,,,,FALSE,FALSE,FALSE,,,,,,,,,,,,,,,,,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Oropharyngeal,Negative,28,TRUE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,37.25,90,125,76,16,98,,,2,TRUE,FALSE,FALSE,FALSE,TRUE,Mild,FALSE,FALSE,,,TRUE,TRUE,,,,TRUE,,,,,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasal,Negative,49,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,37.20,100,135,87,18,100,,,7,TRUE,,,,TRUE,,,TRUE,,TRUE,,TRUE,,,,TRUE,,,,,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasopharyngeal,Negative,58,,,FALSE,FALSE,TRUE,FALSE,FALSE,TRUE,FALSE,36.85,94,112,61,16,97,Negative,,,TRUE,FALSE,,,,,,,,,,,,,,,,,,,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasal,Negative,75,FALSE,TRUE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,FALSE,36.25,71,144,82,16,99,Negative,,7,TRUE,FALSE,,,TRUE,Mild,,TRUE,Moderate,TRUE,TRUE,,,,,,,,,,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasal,Negative,32,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,36.35,95,120,64,16,98,,,,TRUE,FALSE,FALSE,FALSE,FALSE,,,FALSE,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,,,,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasal,Negative,23,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,36.50,58,122,71,16,98,,,2,TRUE,FALSE,FALSE,FALSE,TRUE,Mild,FALSE,FALSE,,,,TRUE,,,,,,,,,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasal,Negative,4,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,36.60,84,81,43,20,99,,,,,FALSE,,,FALSE,,,FALSE,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,,,,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasal,Negative,32,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,36.70,82,128,87,,96,Negative,,,TRUE,FALSE,FALSE,FALSE,TRUE,Mild,,FALSE,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,,,,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasal,Negative,69,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,36.90,69,114,79,14,99,,,,TRUE,,,,TRUE,Mild,TRUE,TRUE,Moderate,,TRUE,,,,,,,,,,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasal,Negative,48,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,37.50,95,120,75,14,100,,,2,TRUE,FALSE,FALSE,FALSE,FALSE,,TRUE,FALSE,,,TRUE,TRUE,,,TRUE,TRUE,TRUE,,,,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasal,Negative,31,,,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,36.90,83,124,80,16,99,,,,TRUE,FALSE,FALSE,FALSE,,,,,,,,,,,,,,,,,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasal,Negative,30,FALSE,FALSE,FALSE,FALSE,TRUE,FALSE,FALSE,FALSE,FALSE,,96,154,93,,,,,7,TRUE,FALSE,FALSE,FALSE,FALSE,,TRUE,FALSE,,TRUE,TRUE,TRUE,,,,,TRUE,,,,FALSE
+2020-04-21,CA,Rapid COVID-19 Test,Nasal,Negative,29,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,FALSE,36.75,103,143,103,18,98,,,1,TRUE,FALSE,FALSE,FALSE,FALSE,,TRUE,FALSE,,,,TRUE,,,,,,,,,FALSE
