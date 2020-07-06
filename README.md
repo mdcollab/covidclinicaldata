@@ -15,7 +15,7 @@ The repository is maintained as [CSV files](https://github.com/mdcollab/covidcli
 
 ### Supplementary Material
 
-* Data preparation functions are available in this [notebook]().
+* Data preparation functions are available in this [notebook](https://github.com/mdcollab/covidclinicaldata/tree/master/notebooks/).
 * Motivations, next steps, and details about this repository are available in this [discussion](https://twitter.com/erenbali/status/1261083321158770689?s=20) that took place on May 14, 2020.
 
 ## Data Contributors and Supporters
