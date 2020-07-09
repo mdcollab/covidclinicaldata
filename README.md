@@ -4,19 +4,21 @@ This is an effort to compile a repository of the clinical characteristics of pat
 
 ## The Repository
 
-The repository is maintained as [CSV files](https://github.com/mdcollab/covidclinicaldata/tree/master/data/) and in <a href="https://docs.google.com/spreadsheets/d/11IuOqJ_L0wYcbDqovmDaASR2aae79I5a9wpGVOuQ9bU/edit?usp=sharing" target="_blank">Sheets</a> and is compliant with <a href="https://www.hhs.gov/hipaa/for-professionals/privacy/special-topics/de-identification/index.html#standard" target="_blank">HIPAA Privacy Rule's De-Identification Standard</a>. Details about each field are available in the <a href="https://docs.google.com/spreadsheets/d/1p9rtv2LjVCPb54MdGe8ZqJ1zF3McIFnzq-ZhhjWgguI/edit?usp=sharing" target="_blank">data dictionary</a>.  
+The repository is maintained as [CSV files](https://github.com/mdcollab/covidclinicaldata/tree/master/data/) and in <a href="https://docs.google.com/spreadsheets/d/11IuOqJ_L0wYcbDqovmDaASR2aae79I5a9wpGVOuQ9bU/edit?usp=sharing" target="_blank">Sheets</a> and is compliant with <a href="https://www.hhs.gov/hipaa/for-professionals/privacy/special-topics/de-identification/index.html#standard" target="_blank">HIPAA Privacy Rule's De-Identification Standard</a>. Details about each field are available in the <a href="https://docs.google.com/spreadsheets/d/1p9rtv2LjVCPb54MdGe8ZqJ1zF3McIFnzq-ZhhjWgguI/edit?usp=sharing" target="_blank">data dictionary</a>.
 
 ### Refresh Cadence and Organization 
 
-* Each batch contains a week's worth of results from Carbon Health and Braid Health.  
-* The first batch, prefixed with 04-07, contains a month's worth of results starting from 03-07.
+* Each file contains a week's worth of results from Carbon Health and Braid Health.  
 * Each filename is prefixed with the date (mm-dd) the query was run, matching `batch_date`.
 * Each row contains the clinical characteristics of a patient who has taken a COVID-19 test. 
+* The first batch, prefixed with 04-07, contains a month's worth of results starting from 03-07.
 
 ### Supplementary Material
 
-* Data preparation functions are available in this [notebook](https://github.com/mdcollab/covidclinicaldata/tree/master/notebooks/data_processing.ipynb).
-* Motivations, next steps, and details about this repository are available in this [discussion](https://twitter.com/erenbali/status/1261083321158770689?s=20) that took place on May 14, 2020.
+* Motivations, details, and next steps are available in this [discussion](https://twitter.com/erenbali/status/1261083321158770689?s=20) from May 2020.
+* Data preparation and summarization functions are available in these [two notebooks](https://github.com/mdcollab/covidclinicaldata/tree/master/notebooks/). For example, below is a visualization of the fill rate for all variables within the data repository.
+
+![Fill rates](images/06-16_fill_rate.png) 
 
 ## Data Contributors and Supporters
 
@@ -31,6 +33,7 @@ The repository is maintained as [CSV files](https://github.com/mdcollab/covidcli
     * The data includes both positive and negative test results. These include results from symptomatic patients, those in professions with a high risk of exposure, and/or those who may have been exposed through contact with a known infected person. The data also includes test results for asymptomatic patients. 
     * The data includes test results of patients with mild symptoms and asymptomatic patients. It does not include results for patients with severe symptoms. We refer such patients to ER.
     * A patient's reported age differs from their actual age by a reasonable randomized amount to protect their privacy.
+    * It is important to note that our data collection is clinically-driven and therefore not systematic. This means that overall positive rates are descriptive of the Carbon Health patient population and cannot be generalized to the unobserved population. We do provide [functions](https://github.com/mdcollab/covidclinicaldata/tree/master/notebooks/data_processing.ipynb) to identify symptom severity to aid in accounting for the various admission criteria that affect positive rates.
 - Acknowledgements:
   - Data Science Team: [Nosheen Moosvi](https://www.linkedin.com/in/nosheen-moosvi-82a31883/), [Rebekkah Ismakov](https://www.linkedin.com/in/rismakov/), [Pardis Noorzad](https://djpardis.com)
   - Clinical Team: [Greg Burrell](https://www.linkedin.com/in/gregburrell/),  [Haritha Atluri](https://www.linkedin.com/in/harithaatluri/), [Roger Wu](https://www.linkedin.com/in/roger-wu-md-mba-facep-b91844a/), [Caesar Djavaherian](https://www.linkedin.com/in/caesar-djavaherian/), [Sujal Mandavia](https://www.linkedin.com/in/sujal-mandavia-03664414/)
