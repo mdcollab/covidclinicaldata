@@ -20,13 +20,13 @@ virtualenv --system-site-packages -p python3 ./venv
 source ./venv/bin/activate
 ```
 
-4. install requirements
+4. Install requirements
 
 ```
 pip install -r requirements.txt
 ```
 
-5. start notebook
+5. Start notebook
 
 ```
 jupyter notebook
