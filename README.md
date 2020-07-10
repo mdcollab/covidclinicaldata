@@ -4,14 +4,14 @@ This is an effort to compile a repository of the clinical characteristics of pat
 
 ## The Repository
 
-The repository is maintained as [CSV files](https://github.com/mdcollab/covidclinicaldata/tree/master/data/) and in <a href="https://docs.google.com/spreadsheets/d/11IuOqJ_L0wYcbDqovmDaASR2aae79I5a9wpGVOuQ9bU/edit?usp=sharing" target="_blank">Sheets</a> and is compliant with <a href="https://www.hhs.gov/hipaa/for-professionals/privacy/special-topics/de-identification/index.html#standard" target="_blank">HIPAA Privacy Rule's De-Identification Standard</a>. Details about each field are available in the <a href="https://docs.google.com/spreadsheets/d/1p9rtv2LjVCPb54MdGe8ZqJ1zF3McIFnzq-ZhhjWgguI/edit?usp=sharing" target="_blank">data dictionary</a>.
+The repository is maintained as [CSV files](https://github.com/mdcollab/covidclinicaldata/tree/master/data/) and in <a href="https://docs.google.com/spreadsheets/d/11IuOqJ_L0wYcbDqovmDaASR2aae79I5a9wpGVOuQ9bU/edit?usp=sharing" target="_blank">Sheets</a> and is compliant with <a href="https://www.hhs.gov/hipaa/for-professionals/privacy/special-topics/de-identification/index.html#standard" target="_blank">HIPAA Privacy Rule's De-Identification Standard</a>. Further, a patient's reported age differs from their actual age by a reasonable randomized amount to protect their privacy. Details about each field are available in the <a href="https://docs.google.com/spreadsheets/d/1p9rtv2LjVCPb54MdGe8ZqJ1zF3McIFnzq-ZhhjWgguI/edit?usp=sharing" target="_blank">data dictionary</a>.
 
 ### Refresh Cadence and Organization 
 
-* Each file contains a week's worth of results from Carbon Health and Braid Health.  
+* Each file contains a week's worth of results from Carbon Health and Braid Health.
+* The first file, prefixed with 04-07, contains a month's worth of results starting from 03-07.  
 * Each filename is prefixed with the date (mm-dd) the query was run, matching `batch_date`.
 * Each row contains the clinical characteristics of a patient who has taken a COVID-19 test. 
-* The first batch, prefixed with 04-07, contains a month's worth of results starting from 03-07.
 
 ### Supplementary Material
 
@@ -32,7 +32,6 @@ The repository is maintained as [CSV files](https://github.com/mdcollab/covidcli
     * The data includes **clinical characteristics** (epi factors, comorbidities, vitals, clinician-assessed symptoms, patient-reported symptoms) in addition to **radiological** and **laboratory** findings. It does not include **treatment plans**, **complications**, and **clinical outcomes**, which is collected at inpatient facilities.
     * The data includes both positive and negative test results. These include results from symptomatic patients, those in professions with a high risk of exposure, and/or those who may have been exposed through contact with a known infected person. The data also includes test results for asymptomatic patients. 
     * The data includes test results of patients with mild symptoms and asymptomatic patients. It does not include results for patients with severe symptoms. We refer such patients to ER.
-    * A patient's reported age differs from their actual age by a reasonable randomized amount to protect their privacy.
     * It is important to note that our data collection is clinically-driven and therefore not systematic. This means that overall positive rates are descriptive of the Carbon Health patient population and cannot be generalized to the unobserved population. We do provide [functions](https://github.com/mdcollab/covidclinicaldata/tree/master/notebooks/data_processing.ipynb) to identify symptom severity to aid in accounting for the various admission criteria that affect positive rates.
 - Acknowledgements:
   - Data Science Team: [Nosheen Moosvi](https://www.linkedin.com/in/nosheen-moosvi-82a31883/), [Rebekkah Ismakov](https://www.linkedin.com/in/rismakov/), [Pardis Noorzad](https://djpardis.com)
@@ -48,12 +47,11 @@ The repository is maintained as [CSV files](https://github.com/mdcollab/covidcli
 - Twitter: <a href="https://twitter.com/BraidHealth" target="_blank">@BraidHealth</a>
 - Email: <vivian@braid.health> and <k@braid.health>
 - Notes:
-    * The data is joined with Carbon Health data using the MRN and encounter ID fields, which are then excluded from the data.
+    * The data is joined with Carbon Health data using the MRN and encounter ID fields, which are subsequently removed.
     * The data includes findings, clinician impressions, labels, and links to chest x-rays. 
     * The links direct to the Braid Health website. 
     * The website UI allows for closer inspection by researchers and radiologists. 
     * The images can be downloaded for image processing and classification studies.
-    * A patient’s reported age differs from their actual age by a reasonable randomized amount to protect their privacy.
 - Acknowledgements:
   - Data Engineering: [Kevin Quennesson](https://www.linkedin.com/in/qevni/), [Daniel Hasegan](https://www.linkedin.com/in/dhasegan/), [Üstün Özgür](https://www.linkedin.com/in/ustunozgur/)
   - Product Design: [Alessandro Sabatelli](https://www.linkedin.com/in/s4l4x/)
@@ -96,5 +94,3 @@ You can use the format below to cite the data repository in your studies.
 This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"  target="_blank">Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License</a>.
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"  target="_blank"><img alt="Creative Commons Licence" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a>
-
-
