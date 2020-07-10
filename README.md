@@ -52,6 +52,10 @@ The repository is maintained as [CSV files](https://github.com/mdcollab/covidcli
     * The links direct to the Braid Health website. 
     * The website UI allows for closer inspection by researchers and radiologists. 
     * The images can be downloaded for image processing and classification studies.
+- Acknowledgements:
+  - Data Engineering: [Kevin Quennesson](https://www.linkedin.com/in/qevni/), [Daniel Hasegan](https://www.linkedin.com/in/dhasegan/), [Üstün Özgür](https://www.linkedin.com/in/ustunozgur/)
+  - Product Design: [Alessandro Sabatelli](https://www.linkedin.com/in/s4l4x/)
+  - Clinical: [Rajni Natesan](https://www.linkedin.com/in/rajninatesan/), [Vivian Liu](https://www.linkedin.com/in/viviandliu/)
 
 | <img src="contributors/logos/braid_health.png" width="60%"> |  <img src="contributors/samples/braid_health_c_xray.png" width="60%"> |
 |:--:| :--:| 
