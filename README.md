@@ -10,7 +10,7 @@ The data includes **clinical characteristics** (epidemiologic factors, comorbidi
 
 The data includes both positive and negative test results for symptomatic and asymptomatic patients. The data does not include results for patients with severe symptoms. We refer such patients to ER.
 
-It is important to note that our _data collection is clinically-driven and therefore not systematic_. This means that overall positive rates are descriptive of the Carbon Health patient population and _cannot be generalized to the unobserved population_. We provide [functions](https://github.com/mdcollab/covidclinicaldata/tree/master/notebooks/data_processing.ipynb) to identify symptom severity to aid in accounting for the various admission criteria that affect positive rates.
+It is important to note that our _data collection is clinically-driven and therefore not systematic_. This means that overall positive rates are descriptive of the Carbon Health patient population and _cannot be generalized to the unobserved population_. We provide [functions](https://github.com/mdcollab/covidclinicaldata/blob/master/notebooks/a_utils.ipynb) to identify symptom severity to aid in accounting for the various admission criteria that affect positive rates.
 
 ### Refresh Cadence and Organization 
 
