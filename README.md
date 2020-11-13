@@ -4,7 +4,7 @@ This is an effort to compile a repository of the clinical characteristics of pat
 
 ## The Repository
 
-The repository is maintained as [CSV files](https://github.com/mdcollab/covidclinicaldata/tree/master/data/) and in <a href="https://docs.google.com/spreadsheets/d/11IuOqJ_L0wYcbDqovmDaASR2aae79I5a9wpGVOuQ9bU/edit?usp=sharing" target="_blank">Sheets</a> and is compliant with <a href="https://www.hhs.gov/hipaa/for-professionals/privacy/special-topics/de-identification/index.html#standard" target="_blank">HIPAA Privacy Rule's De-Identification Standard</a>. Further, a patient's reported age differs from their actual age by a reasonable randomized amount to protect their privacy. 
+The repository is maintained as [CSV files](https://github.com/mdcollab/covidclinicaldata/tree/master/data/) and is compliant with <a href="https://www.hhs.gov/hipaa/for-professionals/privacy/special-topics/de-identification/index.html#standard" target="_blank">HIPAA Privacy Rule's De-Identification Standard</a>. Further, a patient's reported age differs from their actual age by a reasonable randomized amount to protect their privacy. 
 
 The data includes **clinical characteristics** (epidemiologic factors, comorbidities, vitals, clinician-assessed symptoms, patient-reported symptoms), in addition to **radiological** and **laboratory** findings. It does not include **treatment plans**, **complications**, and **clinical outcomes**, which is collected at inpatient facilities. Details about each field are available in the <a href="https://docs.google.com/spreadsheets/d/1p9rtv2LjVCPb54MdGe8ZqJ1zF3McIFnzq-ZhhjWgguI/edit?usp=sharing" target="_blank">data dictionary</a>.
 
