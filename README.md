@@ -86,7 +86,7 @@ Please use the format below to cite the data repository in your studies.
   title =        {Coronavirus Disease 2019 (COVID-19) Clinical Data Repository},
   howpublished = {Accessed from \url{https://covidclinicaldata.org/.}},
   year =         2020,
-  version =      {4.0}
+  version =      {10-20-2020}
 }
 ```
 
