@@ -24,7 +24,7 @@ It is important to note that our _data collection is clinically-driven and there
 * Motivations, details, and next steps are available in this [discussion](https://twitter.com/erenbali/status/1261083321158770689?s=20) from May 2020.
 * Data preparation and summarization functions are available in these [two notebooks](https://github.com/mdcollab/covidclinicaldata/tree/master/notebooks/). For example, below is a visualization of the fill rate for all variables within the data repository.
 
-<center><img src="charts/06-16_fill_rate.png" width="80%"></center>
+<center><img src="charts/10-20_fill_rate.png" width="80%"></center>
 
 ## Data Contributors and Supporters
 
