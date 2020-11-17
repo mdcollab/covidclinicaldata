@@ -4,7 +4,7 @@ This is an effort to compile a repository of the clinical characteristics of pat
 
 ## The Repository
 
-The repository is maintained as [CSV files](https://github.com/mdcollab/covidclinicaldata/tree/master/data/) and in <a href="https://docs.google.com/spreadsheets/d/11IuOqJ_L0wYcbDqovmDaASR2aae79I5a9wpGVOuQ9bU/edit?usp=sharing" target="_blank">Sheets</a> and is compliant with <a href="https://www.hhs.gov/hipaa/for-professionals/privacy/special-topics/de-identification/index.html#standard" target="_blank">HIPAA Privacy Rule's De-Identification Standard</a>. Further, a patient's reported age differs from their actual age by a reasonable randomized amount to protect their privacy. 
+The repository is maintained as [CSV files](https://github.com/mdcollab/covidclinicaldata/tree/master/data/) and is compliant with <a href="https://www.hhs.gov/hipaa/for-professionals/privacy/special-topics/de-identification/index.html#standard" target="_blank">HIPAA Privacy Rule's De-Identification Standard</a>. Further, a patient's reported age differs from their actual age by a reasonable randomized amount to protect their privacy. 
 
 The data includes **clinical characteristics** (epidemiologic factors, comorbidities, vitals, clinician-assessed symptoms, patient-reported symptoms), in addition to **radiological** and **laboratory** findings. It does not include **treatment plans**, **complications**, and **clinical outcomes**, which is collected at inpatient facilities. Details about each field are available in the <a href="https://docs.google.com/spreadsheets/d/1p9rtv2LjVCPb54MdGe8ZqJ1zF3McIFnzq-ZhhjWgguI/edit?usp=sharing" target="_blank">data dictionary</a>.
 
@@ -24,7 +24,7 @@ It is important to note that our _data collection is clinically-driven and there
 * Motivations, details, and next steps are available in this [discussion](https://twitter.com/erenbali/status/1261083321158770689?s=20) from May 2020.
 * Data preparation and summarization functions are available in these [two notebooks](https://github.com/mdcollab/covidclinicaldata/tree/master/notebooks/). For example, below is a visualization of the fill rate for all variables within the data repository.
 
-<center><img src="charts/06-16_fill_rate.png" width="80%"></center>
+<center><img src="charts/10-20_fill_rate.png" width="80%"></center>
 
 ## Data Contributors and Supporters
 
@@ -86,7 +86,7 @@ Please use the format below to cite the data repository in your studies.
   title =        {Coronavirus Disease 2019 (COVID-19) Clinical Data Repository},
   howpublished = {Accessed from \url{https://covidclinicaldata.org/.}},
   year =         2020,
-  version =      {4.0}
+  version =      {10-20-2020}
 }
 ```
 
