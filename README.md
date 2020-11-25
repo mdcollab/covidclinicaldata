@@ -26,6 +26,8 @@ It is important to note that our _data collection is clinically-driven and there
 
 <center><img src="charts/10-20_fill_rate.png" width="80%"></center>
 
+Please note that the fill rates of vitals and clinician-assessed symptoms have dropped with the more recently published data batches due to the presence of a greater volume of mobile clinics, pop-up clinics, and home test kits. Clinicians are not present at these locations during the time of specimen collection, and therefore, vitals are not taken and exams are not provided.
+
 ## Data Contributors and Supporters
 
 ### Carbon Health — Clinical characteristics and laboratory findings
