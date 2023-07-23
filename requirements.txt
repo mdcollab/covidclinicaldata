@@ -14,7 +14,7 @@ jedi==0.17.1
 Jinja2==2.11.2
 jsonschema==3.2.0
 jupyter-client==6.1.5
-jupyter-core==4.6.3
+jupyter-core==4.11.2
 kiwisolver==1.2.0
 MarkupSafe==1.1.1
 matplotlib==3.2.2
